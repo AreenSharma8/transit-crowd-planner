@@ -1,0 +1,5 @@
+export type Signal={route_key:string;score:number;label:string;confidence:'low'|'medium'|'high';records:number;ticketed_passengers?:number};
+export type Journey={id:string;label:string;route_names:string[];color:string;travel_minutes:number;walk_minutes:number;transfers:number;total_minutes:number;boarding_stop:string;alighting_stop:string;transfer_stop?:string|null;stops:string[];note:string;crowding:{score:number;label:string;confidence:'low'|'medium'|'high';records:number;signals:Signal[];basis:string};data_mode:string};
+export type DatasetStatus={mode:string;is_demo:boolean;ticket_rows:number;missing_vehicle_number_percent:number|null;file_name:string;route_network:string;occupancy_available:boolean};
+export type PlanResponse={origin:string;destination:string;departure:string;options:Journey[];notice:string;data:DatasetStatus};
+export type Validation={route_key:string;peak_records:number;midday_records:number;peak_avg_passengers_per_hour:number;midday_avg_passengers_per_hour:number;trend:string;sufficient_sample:boolean;note:string};

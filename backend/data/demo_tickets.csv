@@ -1,0 +1,1590 @@
+passenger_count,amount,vehicle_number,ticket_type_id,end_stop_name,route,start_stop_name,created_at,is_ac
+1,22,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-01T15:04:14.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-01T10:14:00.000000+05:30,False
+1,35,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-01T18:14:27.000000+05:30,False
+2,10,DEMO-1-47,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-01T12:53:49.000000+05:30,False
+2,10,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-01T12:25:51.000000+05:30,False
+2,15,DEMO-1-62,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-01T19:09:58.000000+05:30,False
+1,10,DEMO-1-91,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-01T20:05:22.000000+05:30,False
+2,10,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-01T13:06:01.000000+05:30,True
+3,20,,1,Market junction,SAMPLE-A,Central interchange,2026-10-01T17:33:47.000000+05:30,True
+2,22,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-01T17:46:37.000000+05:30,True
+2,25,,2,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-01T08:26:53.000000+05:30,True
+2,15,,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-01T12:57:52.000000+05:30,False
+2,30,,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-01T13:24:59.000000+05:30,True
+1,15,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-01T13:36:13.000000+05:30,False
+3,20,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-01T20:26:58.000000+05:30,False
+2,20,DEMO-1-51,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-01T18:38:47.000000+05:30,False
+1,15,DEMO-1-88,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-01T17:11:21.000000+05:30,False
+1,15,DEMO-1-78,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-01T13:04:44.000000+05:30,True
+3,22,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-01T18:04:49.000000+05:30,False
+1,30,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-01T12:58:22.000000+05:30,False
+2,30,DEMO-2-15,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-01T11:11:41.000000+05:30,False
+1,22,,2,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-01T07:54:48.000000+05:30,True
+1,10,DEMO-2-10,1,Nehru Place,SAMPLE-B,Market junction,2026-10-01T17:30:09.000000+05:30,False
+1,30,,2,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-01T10:15:34.000000+05:30,True
+2,35,,1,Market junction,SAMPLE-B,Central interchange,2026-10-01T18:15:32.000000+05:30,False
+1,22,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-01T19:01:30.000000+05:30,True
+1,30,,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-01T12:35:13.000000+05:30,False
+1,35,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-01T17:36:18.000000+05:30,False
+1,35,DEMO-3-60,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-01T08:41:40.000000+05:30,True
+1,35,,2,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-01T12:05:43.000000+05:30,False
+1,10,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-01T09:22:53.000000+05:30,False
+1,10,DEMO-3-34,1,Connaught Place,SAMPLE-C,Market junction,2026-10-01T07:56:55.000000+05:30,True
+1,10,,1,Central interchange,SAMPLE-C,Market junction,2026-10-01T10:43:23.000000+05:30,True
+1,25,DEMO-3-83,1,Market junction,SAMPLE-C,Nehru Place,2026-10-01T20:16:48.000000+05:30,False
+1,35,,2,Connaught Place,SAMPLE-C,Nehru Place,2026-10-01T18:14:33.000000+05:30,False
+2,10,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-01T10:39:17.000000+05:30,True
+1,25,DEMO-3-65,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-01T12:33:42.000000+05:30,False
+2,15,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-01T10:27:29.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-01T18:17:45.000000+05:30,True
+1,25,DEMO-3-20,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-01T07:31:38.000000+05:30,False
+1,15,DEMO-3-41,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-01T17:46:11.000000+05:30,True
+2,15,,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-01T07:35:43.000000+05:30,False
+1,22,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-01T09:05:16.000000+05:30,True
+4,35,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-01T19:33:27.000000+05:30,False
+1,22,,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-01T13:27:03.000000+05:30,True
+1,25,DEMO-4-62,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-01T13:43:33.000000+05:30,True
+3,10,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-01T18:03:11.000000+05:30,False
+2,30,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-01T15:31:31.000000+05:30,True
+1,30,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-01T14:37:59.000000+05:30,False
+1,10,DEMO-4-54,1,Connaught Place,SAMPLE-D,Market junction,2026-10-01T09:09:50.000000+05:30,True
+1,35,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-01T09:38:22.000000+05:30,True
+1,22,DEMO-4-16,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-01T08:06:09.000000+05:30,False
+1,22,DEMO-4-68,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-01T17:06:23.000000+05:30,True
+4,30,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-01T09:43:54.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-01T10:08:45.000000+05:30,True
+1,20,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-02T07:19:16.000000+05:30,True
+2,25,DEMO-1-36,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-02T12:11:45.000000+05:30,False
+1,15,DEMO-1-53,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T18:11:27.000000+05:30,True
+1,25,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-02T19:31:26.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T07:57:43.000000+05:30,True
+1,30,DEMO-1-44,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T17:06:20.000000+05:30,False
+4,35,DEMO-1-13,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-02T08:16:09.000000+05:30,False
+2,22,,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-02T18:41:04.000000+05:30,False
+1,35,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-02T19:09:21.000000+05:30,False
+1,10,,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T17:12:14.000000+05:30,True
+1,20,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T19:06:29.000000+05:30,False
+1,22,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T19:33:53.000000+05:30,True
+1,10,DEMO-1-75,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-02T08:05:58.000000+05:30,True
+1,20,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-02T12:50:43.000000+05:30,True
+1,25,DEMO-1-24,2,Central interchange,SAMPLE-A,Nehru Place,2026-10-02T08:49:12.000000+05:30,True
+1,20,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-02T13:42:48.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-A,Central interchange,2026-10-02T21:50:45.000000+05:30,False
+1,35,DEMO-2-77,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-02T07:17:09.000000+05:30,False
+2,25,DEMO-2-48,1,Connaught Place,SAMPLE-B,Market junction,2026-10-02T17:03:08.000000+05:30,True
+2,22,DEMO-2-85,1,Connaught Place,SAMPLE-B,Market junction,2026-10-02T20:28:12.000000+05:30,True
+1,25,DEMO-2-37,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-02T08:39:39.000000+05:30,True
+1,25,DEMO-2-55,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-02T17:59:16.000000+05:30,False
+1,25,DEMO-2-87,1,Central interchange,SAMPLE-B,Market junction,2026-10-02T13:09:35.000000+05:30,False
+1,20,DEMO-2-58,1,Nehru Place,SAMPLE-B,Market junction,2026-10-02T20:45:13.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-02T07:45:09.000000+05:30,True
+1,30,DEMO-2-25,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-02T12:56:43.000000+05:30,True
+1,22,DEMO-3-95,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-02T08:34:07.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-02T17:51:19.000000+05:30,False
+3,35,,1,Connaught Place,SAMPLE-C,Market junction,2026-10-02T08:14:36.000000+05:30,True
+1,20,DEMO-3-94,1,Market junction,SAMPLE-C,Connaught Place,2026-10-02T09:54:17.000000+05:30,True
+1,30,DEMO-3-33,1,Nehru Place,SAMPLE-C,Market junction,2026-10-02T07:15:07.000000+05:30,False
+2,10,DEMO-3-51,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-02T07:00:25.000000+05:30,False
+1,25,DEMO-3-93,2,Connaught Place,SAMPLE-C,Market junction,2026-10-02T20:38:25.000000+05:30,False
+2,10,DEMO-3-72,2,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-02T07:04:22.000000+05:30,False
+1,20,,2,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-02T15:37:47.000000+05:30,True
+3,10,,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-02T13:15:22.000000+05:30,False
+2,35,,2,Connaught Place,SAMPLE-C,Market junction,2026-10-02T13:32:31.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-02T09:21:32.000000+05:30,False
+1,30,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-02T08:57:19.000000+05:30,True
+4,15,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-02T10:33:49.000000+05:30,False
+1,22,DEMO-3-55,2,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-02T19:37:09.000000+05:30,False
+1,25,DEMO-3-97,1,Market junction,SAMPLE-C,Connaught Place,2026-10-02T07:58:25.000000+05:30,False
+1,15,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-02T07:51:06.000000+05:30,False
+3,25,DEMO-4-55,1,Connaught Place,SAMPLE-D,Market junction,2026-10-02T17:08:52.000000+05:30,True
+1,15,,2,Connaught Place,SAMPLE-D,Nehru Place,2026-10-02T21:12:39.000000+05:30,False
+3,25,,2,Central interchange,SAMPLE-D,Nehru Place,2026-10-02T10:47:21.000000+05:30,False
+1,15,DEMO-4-86,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-02T11:48:42.000000+05:30,False
+2,35,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-02T07:18:44.000000+05:30,False
+1,20,DEMO-4-44,1,Nehru Place,SAMPLE-D,Market junction,2026-10-02T07:11:51.000000+05:30,False
+1,15,,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-02T07:40:27.000000+05:30,True
+1,20,DEMO-4-77,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-02T14:06:37.000000+05:30,True
+1,15,,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-02T07:45:15.000000+05:30,True
+1,30,DEMO-4-59,1,Connaught Place,SAMPLE-D,Market junction,2026-10-02T14:07:10.000000+05:30,False
+3,30,DEMO-4-14,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-02T07:59:40.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-02T11:28:13.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-02T18:48:00.000000+05:30,False
+2,15,DEMO-4-91,2,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-02T18:30:48.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-02T14:49:09.000000+05:30,False
+2,22,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-03T10:35:24.000000+05:30,True
+1,20,DEMO-1-16,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-03T08:04:53.000000+05:30,False
+2,10,DEMO-1-57,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-03T14:30:33.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-03T08:25:17.000000+05:30,False
+1,22,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-03T21:15:31.000000+05:30,False
+2,22,DEMO-1-80,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-03T18:40:48.000000+05:30,False
+2,10,,1,Market junction,SAMPLE-A,Central interchange,2026-10-03T10:31:31.000000+05:30,True
+1,15,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-03T14:49:17.000000+05:30,True
+1,20,DEMO-1-71,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-03T11:51:39.000000+05:30,True
+1,20,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-03T11:14:28.000000+05:30,False
+2,25,,2,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-03T09:16:12.000000+05:30,True
+1,20,DEMO-1-88,2,Market junction,SAMPLE-A,Central interchange,2026-10-03T20:14:43.000000+05:30,False
+4,22,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-03T18:27:06.000000+05:30,False
+2,35,DEMO-1-89,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-03T12:05:00.000000+05:30,False
+2,25,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-03T08:46:35.000000+05:30,True
+1,10,DEMO-1-35,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-03T18:08:32.000000+05:30,False
+1,10,DEMO-1-71,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-03T07:37:48.000000+05:30,True
+1,10,DEMO-2-73,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-03T07:22:58.000000+05:30,True
+2,10,,2,Nehru Place,SAMPLE-B,Market junction,2026-10-03T10:03:44.000000+05:30,True
+2,20,,2,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-03T19:28:42.000000+05:30,True
+1,25,,1,Central interchange,SAMPLE-B,Market junction,2026-10-03T08:15:51.000000+05:30,False
+1,20,DEMO-2-63,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-03T18:41:39.000000+05:30,True
+1,30,DEMO-2-82,2,Market junction,SAMPLE-B,Central interchange,2026-10-03T09:44:48.000000+05:30,False
+4,35,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-03T07:09:46.000000+05:30,False
+1,35,DEMO-2-75,1,Market junction,SAMPLE-B,Central interchange,2026-10-03T08:32:51.000000+05:30,False
+1,15,DEMO-2-32,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-03T13:08:55.000000+05:30,False
+1,20,DEMO-3-58,2,Market junction,SAMPLE-C,Connaught Place,2026-10-03T14:05:50.000000+05:30,False
+3,10,DEMO-3-12,2,Connaught Place,SAMPLE-C,Market junction,2026-10-03T18:22:02.000000+05:30,False
+1,10,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-03T09:45:05.000000+05:30,False
+1,35,,1,Connaught Place,SAMPLE-C,Market junction,2026-10-03T08:38:00.000000+05:30,True
+1,25,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-03T10:13:53.000000+05:30,False
+3,15,DEMO-3-12,2,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-03T18:52:54.000000+05:30,False
+1,22,DEMO-3-40,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-03T10:14:45.000000+05:30,False
+2,20,DEMO-3-12,1,Market junction,SAMPLE-C,Connaught Place,2026-10-03T09:18:26.000000+05:30,False
+1,15,DEMO-3-30,2,Nehru Place,SAMPLE-C,Connaught Place,2026-10-03T09:05:51.000000+05:30,True
+2,30,DEMO-3-46,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-03T15:36:20.000000+05:30,False
+3,30,DEMO-3-28,2,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-03T09:55:12.000000+05:30,True
+2,22,DEMO-3-18,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-03T09:54:50.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-03T20:31:50.000000+05:30,True
+2,30,DEMO-3-50,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-03T09:09:18.000000+05:30,True
+1,15,DEMO-3-50,2,Connaught Place,SAMPLE-C,Market junction,2026-10-03T09:59:13.000000+05:30,False
+1,25,DEMO-4-71,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-03T09:54:44.000000+05:30,False
+1,10,DEMO-4-41,2,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-03T07:06:04.000000+05:30,False
+1,20,DEMO-4-78,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-03T11:10:00.000000+05:30,False
+1,15,,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-03T14:40:28.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-03T18:07:29.000000+05:30,True
+2,20,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-03T10:51:17.000000+05:30,True
+3,10,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-03T08:40:20.000000+05:30,False
+1,10,,2,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-03T19:19:56.000000+05:30,False
+1,22,DEMO-4-45,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-03T14:41:18.000000+05:30,True
+2,22,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-03T08:30:55.000000+05:30,False
+2,15,DEMO-4-85,2,Connaught Place,SAMPLE-D,Nehru Place,2026-10-03T07:52:44.000000+05:30,False
+1,10,DEMO-4-47,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-03T19:37:23.000000+05:30,True
+1,10,,2,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-03T15:34:07.000000+05:30,True
+2,35,DEMO-4-52,2,Central interchange,SAMPLE-D,Nehru Place,2026-10-03T08:32:00.000000+05:30,True
+1,15,DEMO-4-76,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-03T14:35:57.000000+05:30,False
+2,25,,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-03T14:55:36.000000+05:30,True
+2,20,DEMO-4-52,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-03T12:54:55.000000+05:30,False
+3,20,DEMO-1-17,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-04T08:59:26.000000+05:30,True
+2,22,DEMO-1-58,2,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-04T07:08:18.000000+05:30,True
+3,35,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-04T17:06:10.000000+05:30,False
+2,22,,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-04T14:11:58.000000+05:30,False
+1,30,,2,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-04T18:49:56.000000+05:30,False
+1,35,,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-04T09:07:24.000000+05:30,True
+2,20,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-04T08:08:57.000000+05:30,False
+2,35,DEMO-1-25,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-04T09:04:16.000000+05:30,True
+1,20,DEMO-1-80,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-04T09:36:34.000000+05:30,False
+1,20,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-04T15:11:07.000000+05:30,True
+2,25,DEMO-2-33,2,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-04T08:55:58.000000+05:30,True
+1,20,,2,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-04T21:23:10.000000+05:30,False
+1,20,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-04T11:50:57.000000+05:30,False
+1,22,,2,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-04T18:40:05.000000+05:30,False
+1,15,DEMO-2-10,1,Nehru Place,SAMPLE-B,Market junction,2026-10-04T17:48:12.000000+05:30,False
+2,22,DEMO-2-83,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-04T08:09:14.000000+05:30,True
+1,25,DEMO-2-34,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-04T17:35:35.000000+05:30,True
+1,35,,1,Central interchange,SAMPLE-B,Market junction,2026-10-04T19:42:14.000000+05:30,True
+1,35,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-04T17:57:27.000000+05:30,True
+1,30,,2,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-04T13:07:15.000000+05:30,False
+1,10,,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-04T18:08:52.000000+05:30,True
+1,25,,2,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-04T19:34:20.000000+05:30,True
+3,25,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-04T08:47:24.000000+05:30,False
+2,20,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-04T21:28:27.000000+05:30,True
+1,22,DEMO-3-49,2,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-04T12:52:23.000000+05:30,False
+1,35,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-04T14:38:31.000000+05:30,True
+1,25,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-04T17:16:43.000000+05:30,True
+3,15,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-04T08:10:23.000000+05:30,True
+2,22,,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-04T17:11:17.000000+05:30,False
+3,22,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-04T12:39:55.000000+05:30,False
+3,10,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-04T07:07:27.000000+05:30,False
+1,25,DEMO-3-94,1,Market junction,SAMPLE-C,Connaught Place,2026-10-04T12:33:22.000000+05:30,True
+1,25,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-04T18:17:37.000000+05:30,False
+2,30,DEMO-3-52,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-04T11:27:15.000000+05:30,False
+1,35,DEMO-3-52,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-04T11:51:20.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-04T20:16:51.000000+05:30,True
+1,22,,1,Central interchange,SAMPLE-D,Market junction,2026-10-04T21:29:17.000000+05:30,False
+1,20,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-04T08:39:33.000000+05:30,True
+2,25,,2,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-04T13:26:37.000000+05:30,False
+1,10,DEMO-4-60,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-04T18:48:21.000000+05:30,False
+1,20,DEMO-4-76,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-04T07:52:21.000000+05:30,False
+2,30,DEMO-4-72,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-04T17:25:16.000000+05:30,True
+2,22,DEMO-4-56,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-04T17:59:01.000000+05:30,True
+1,15,DEMO-4-67,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-04T20:55:59.000000+05:30,False
+2,30,,2,Central interchange,SAMPLE-D,Nehru Place,2026-10-04T08:51:00.000000+05:30,True
+3,10,DEMO-4-84,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-04T15:41:13.000000+05:30,True
+1,35,DEMO-4-35,2,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-04T19:12:03.000000+05:30,False
+1,15,DEMO-4-73,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-04T17:26:41.000000+05:30,False
+1,35,DEMO-1-56,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-05T13:53:48.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-05T08:20:54.000000+05:30,False
+3,10,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-05T08:25:05.000000+05:30,True
+2,35,,2,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-05T07:17:09.000000+05:30,True
+2,35,DEMO-1-36,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-05T12:04:11.000000+05:30,False
+3,30,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-05T07:37:14.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-05T12:13:54.000000+05:30,False
+2,10,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-05T17:30:55.000000+05:30,False
+1,10,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-05T19:07:33.000000+05:30,True
+1,25,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-05T10:13:10.000000+05:30,True
+3,30,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-05T21:43:23.000000+05:30,True
+1,30,DEMO-1-34,2,Nehru Place,SAMPLE-A,Central interchange,2026-10-05T07:23:39.000000+05:30,False
+1,15,DEMO-2-50,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-05T09:50:50.000000+05:30,False
+1,22,DEMO-2-29,1,Central interchange,SAMPLE-B,Market junction,2026-10-05T09:42:40.000000+05:30,False
+1,25,DEMO-2-19,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-05T08:26:48.000000+05:30,False
+1,10,DEMO-2-62,2,Nehru Place,SAMPLE-B,Central interchange,2026-10-05T20:18:47.000000+05:30,True
+3,35,DEMO-2-50,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-05T18:59:00.000000+05:30,True
+4,35,,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-05T09:23:57.000000+05:30,False
+3,22,DEMO-2-82,2,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-05T13:20:32.000000+05:30,False
+1,22,,2,Central interchange,SAMPLE-B,Market junction,2026-10-05T10:26:31.000000+05:30,False
+1,25,DEMO-2-35,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-05T19:03:03.000000+05:30,False
+1,20,,1,Central interchange,SAMPLE-B,Market junction,2026-10-05T15:19:47.000000+05:30,False
+1,35,,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-05T10:46:24.000000+05:30,True
+1,22,,2,Nehru Place,SAMPLE-C,Market junction,2026-10-05T18:35:24.000000+05:30,False
+1,30,DEMO-3-60,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-05T09:07:36.000000+05:30,True
+1,25,,2,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-05T07:29:21.000000+05:30,True
+2,25,DEMO-3-21,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-05T17:42:20.000000+05:30,True
+1,22,DEMO-3-24,2,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-05T20:10:35.000000+05:30,False
+2,30,DEMO-3-81,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-05T07:27:27.000000+05:30,False
+3,10,,1,Central interchange,SAMPLE-C,Connaught Place,2026-10-05T17:26:56.000000+05:30,False
+2,25,DEMO-3-27,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-05T09:49:44.000000+05:30,False
+1,22,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-05T18:18:55.000000+05:30,False
+1,20,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-05T20:23:57.000000+05:30,False
+2,30,DEMO-3-39,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-05T14:29:11.000000+05:30,False
+1,10,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-05T15:33:44.000000+05:30,True
+2,25,DEMO-3-62,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-05T19:19:32.000000+05:30,True
+3,22,DEMO-4-13,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-05T09:18:49.000000+05:30,True
+4,20,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-05T20:39:54.000000+05:30,True
+2,10,DEMO-4-66,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-05T17:05:00.000000+05:30,False
+1,25,DEMO-4-39,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-05T08:56:22.000000+05:30,True
+3,25,,1,Central interchange,SAMPLE-D,Market junction,2026-10-05T18:48:37.000000+05:30,False
+2,35,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-05T09:11:22.000000+05:30,False
+1,35,DEMO-4-53,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-05T17:34:21.000000+05:30,True
+1,15,,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-05T21:39:49.000000+05:30,True
+2,25,DEMO-4-80,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-05T11:35:11.000000+05:30,True
+1,10,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-05T12:18:52.000000+05:30,True
+3,35,DEMO-4-18,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-05T07:31:46.000000+05:30,True
+2,35,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-05T21:16:51.000000+05:30,True
+2,10,DEMO-4-12,2,Nehru Place,SAMPLE-D,Market junction,2026-10-05T08:26:25.000000+05:30,False
+1,25,DEMO-4-74,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-05T15:53:55.000000+05:30,True
+1,10,,2,Nehru Place,SAMPLE-D,Market junction,2026-10-05T08:59:05.000000+05:30,True
+1,15,DEMO-4-34,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-05T13:40:35.000000+05:30,False
+2,20,DEMO-4-63,2,Central interchange,SAMPLE-D,Market junction,2026-10-05T09:16:07.000000+05:30,True
+1,15,DEMO-4-69,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-05T07:48:26.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-06T15:30:33.000000+05:30,True
+1,22,DEMO-1-82,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-06T21:21:53.000000+05:30,True
+1,25,,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-06T09:01:54.000000+05:30,False
+1,25,,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-06T07:48:06.000000+05:30,True
+4,15,DEMO-1-21,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-06T17:34:09.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-06T12:00:43.000000+05:30,True
+2,30,,2,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-06T19:53:54.000000+05:30,False
+2,15,,2,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-06T17:19:49.000000+05:30,True
+1,35,DEMO-1-72,1,Market junction,SAMPLE-A,Central interchange,2026-10-06T10:49:37.000000+05:30,True
+1,30,,2,Market junction,SAMPLE-A,Nehru Place,2026-10-06T14:35:23.000000+05:30,True
+1,35,DEMO-1-24,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-06T07:26:37.000000+05:30,False
+1,10,DEMO-1-53,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-06T07:25:02.000000+05:30,False
+1,35,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-06T17:59:57.000000+05:30,True
+1,35,,2,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-06T10:17:15.000000+05:30,True
+2,35,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-06T21:33:08.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-06T15:04:44.000000+05:30,True
+3,20,DEMO-1-45,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-06T11:12:52.000000+05:30,True
+1,22,DEMO-1-93,2,Market junction,SAMPLE-A,Central interchange,2026-10-06T19:50:03.000000+05:30,True
+2,15,DEMO-2-52,2,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-06T19:06:37.000000+05:30,False
+1,10,DEMO-2-58,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-06T09:25:11.000000+05:30,False
+2,10,DEMO-2-21,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-06T09:47:39.000000+05:30,True
+2,22,DEMO-2-96,1,Nehru Place,SAMPLE-B,Market junction,2026-10-06T19:53:44.000000+05:30,False
+1,30,DEMO-2-65,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-06T07:01:22.000000+05:30,False
+1,10,DEMO-2-48,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-06T14:55:56.000000+05:30,False
+2,30,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-06T12:02:21.000000+05:30,False
+4,10,DEMO-2-33,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-06T18:13:39.000000+05:30,True
+1,22,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-06T13:59:55.000000+05:30,False
+1,15,,2,Nehru Place,SAMPLE-C,Connaught Place,2026-10-06T18:05:15.000000+05:30,False
+1,15,DEMO-3-69,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-06T08:30:18.000000+05:30,False
+1,30,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-06T20:39:12.000000+05:30,True
+1,35,DEMO-3-40,2,Central interchange,SAMPLE-C,Market junction,2026-10-06T21:43:24.000000+05:30,False
+1,30,DEMO-3-63,2,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-06T12:26:46.000000+05:30,True
+1,25,DEMO-3-98,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-06T15:47:50.000000+05:30,False
+2,25,,2,Connaught Place,SAMPLE-C,Nehru Place,2026-10-06T09:09:36.000000+05:30,True
+1,22,,1,Connaught Place,SAMPLE-C,Market junction,2026-10-06T19:53:10.000000+05:30,True
+1,25,,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-06T18:27:54.000000+05:30,True
+1,22,DEMO-3-77,2,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-06T09:07:20.000000+05:30,False
+1,30,DEMO-3-35,1,Market junction,SAMPLE-C,Connaught Place,2026-10-06T14:54:00.000000+05:30,True
+1,25,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-06T07:01:06.000000+05:30,True
+1,25,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-06T08:04:20.000000+05:30,True
+4,22,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-06T19:19:14.000000+05:30,True
+3,20,DEMO-3-85,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-06T18:49:17.000000+05:30,False
+1,30,DEMO-3-80,2,Connaught Place,SAMPLE-C,Nehru Place,2026-10-06T19:32:35.000000+05:30,True
+1,10,DEMO-3-71,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-06T14:54:56.000000+05:30,False
+1,10,,2,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-06T12:28:00.000000+05:30,False
+1,20,DEMO-4-18,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-06T19:03:25.000000+05:30,True
+1,22,DEMO-4-87,1,Connaught Place,SAMPLE-D,Market junction,2026-10-06T17:25:32.000000+05:30,True
+1,30,,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-06T08:58:28.000000+05:30,False
+1,20,DEMO-4-45,1,Market junction,SAMPLE-D,Connaught Place,2026-10-06T20:39:13.000000+05:30,True
+4,25,DEMO-4-92,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-06T18:37:02.000000+05:30,True
+3,10,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-06T20:26:21.000000+05:30,False
+1,15,DEMO-4-18,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-06T11:31:40.000000+05:30,True
+1,35,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-06T09:20:32.000000+05:30,True
+2,30,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-06T09:44:00.000000+05:30,False
+1,25,DEMO-1-47,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-07T11:30:45.000000+05:30,False
+2,10,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-07T09:25:26.000000+05:30,False
+2,25,DEMO-1-91,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-07T13:14:04.000000+05:30,True
+2,30,,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-07T08:35:32.000000+05:30,False
+1,22,DEMO-1-77,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-07T18:54:12.000000+05:30,True
+2,35,DEMO-1-69,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-07T19:23:50.000000+05:30,False
+1,22,DEMO-1-24,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-07T08:34:47.000000+05:30,True
+3,22,,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-07T07:11:15.000000+05:30,False
+1,20,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-07T09:32:59.000000+05:30,False
+2,20,DEMO-1-72,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-07T09:12:05.000000+05:30,True
+1,10,DEMO-1-47,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-07T17:01:34.000000+05:30,False
+3,22,DEMO-1-52,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-07T17:16:13.000000+05:30,True
+2,22,DEMO-1-68,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-07T13:58:50.000000+05:30,True
+1,15,DEMO-1-95,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-07T09:53:20.000000+05:30,False
+1,15,DEMO-1-96,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-07T07:15:08.000000+05:30,True
+1,25,DEMO-2-84,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-07T21:59:23.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-07T07:16:59.000000+05:30,False
+1,30,DEMO-2-16,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-07T13:11:59.000000+05:30,True
+1,35,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-07T17:36:25.000000+05:30,True
+1,20,DEMO-2-63,2,Nehru Place,SAMPLE-B,Central interchange,2026-10-07T14:08:17.000000+05:30,False
+1,20,,1,Market junction,SAMPLE-B,Central interchange,2026-10-07T21:53:58.000000+05:30,True
+1,35,DEMO-2-15,1,Central interchange,SAMPLE-B,Market junction,2026-10-07T08:06:46.000000+05:30,True
+1,20,DEMO-2-85,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-07T19:30:04.000000+05:30,True
+2,15,DEMO-2-64,2,Central interchange,SAMPLE-B,Nehru Place,2026-10-07T19:36:20.000000+05:30,True
+1,20,DEMO-2-38,1,Central interchange,SAMPLE-B,Market junction,2026-10-07T18:51:29.000000+05:30,True
+2,35,DEMO-2-44,2,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-07T19:03:35.000000+05:30,False
+3,35,DEMO-2-46,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-07T19:26:04.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-07T08:13:58.000000+05:30,True
+1,15,,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-07T17:29:03.000000+05:30,True
+3,10,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-07T07:17:06.000000+05:30,False
+2,10,,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-07T08:32:17.000000+05:30,True
+3,15,DEMO-2-52,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-07T17:22:54.000000+05:30,False
+1,25,DEMO-2-90,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-07T07:45:24.000000+05:30,False
+3,20,DEMO-3-77,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-07T19:44:43.000000+05:30,False
+1,20,,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-07T15:39:20.000000+05:30,False
+3,10,DEMO-3-90,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-07T07:40:34.000000+05:30,True
+1,22,DEMO-3-14,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-07T15:45:26.000000+05:30,False
+1,25,DEMO-3-66,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-07T21:15:59.000000+05:30,True
+1,25,DEMO-3-35,1,Central interchange,SAMPLE-C,Market junction,2026-10-07T18:36:31.000000+05:30,True
+1,15,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-07T07:18:27.000000+05:30,True
+2,22,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-07T07:34:46.000000+05:30,False
+3,22,DEMO-4-71,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-07T07:13:25.000000+05:30,True
+2,30,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-07T18:51:40.000000+05:30,True
+2,10,DEMO-4-70,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-07T08:13:28.000000+05:30,True
+1,20,DEMO-4-87,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-07T21:33:15.000000+05:30,True
+2,10,DEMO-4-41,1,Nehru Place,SAMPLE-D,Market junction,2026-10-07T08:40:27.000000+05:30,True
+2,30,DEMO-4-63,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-07T19:22:00.000000+05:30,True
+2,30,DEMO-4-85,1,Connaught Place,SAMPLE-D,Market junction,2026-10-07T19:05:17.000000+05:30,True
+1,15,DEMO-4-39,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-07T18:41:15.000000+05:30,False
+1,25,DEMO-4-65,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-07T09:57:51.000000+05:30,False
+1,22,DEMO-4-96,2,Market junction,SAMPLE-D,Nehru Place,2026-10-07T09:21:10.000000+05:30,True
+1,15,DEMO-4-15,1,Connaught Place,SAMPLE-D,Market junction,2026-10-07T19:31:51.000000+05:30,True
+1,15,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-08T07:21:18.000000+05:30,False
+1,20,DEMO-1-42,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-08T15:46:04.000000+05:30,True
+2,22,DEMO-1-81,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-08T17:06:59.000000+05:30,False
+2,35,DEMO-1-44,1,Market junction,SAMPLE-A,Nehru Place,2026-10-08T18:30:48.000000+05:30,False
+2,35,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-08T09:20:04.000000+05:30,True
+2,30,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-08T11:39:34.000000+05:30,True
+3,15,,2,Nehru Place,SAMPLE-A,Central interchange,2026-10-08T10:19:12.000000+05:30,False
+1,20,DEMO-1-79,1,Market junction,SAMPLE-A,Central interchange,2026-10-08T19:58:59.000000+05:30,False
+1,30,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-08T17:49:48.000000+05:30,False
+2,15,DEMO-1-85,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-08T12:09:59.000000+05:30,False
+1,10,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-08T15:37:01.000000+05:30,False
+2,25,,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-08T12:27:20.000000+05:30,True
+2,20,DEMO-1-79,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-08T17:44:26.000000+05:30,True
+1,25,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-08T17:55:21.000000+05:30,False
+1,10,DEMO-1-17,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-08T17:11:33.000000+05:30,False
+1,22,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-08T20:40:52.000000+05:30,False
+1,25,DEMO-2-10,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-08T09:06:03.000000+05:30,False
+1,30,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-08T08:59:46.000000+05:30,True
+2,20,DEMO-2-59,1,Connaught Place,SAMPLE-B,Market junction,2026-10-08T12:42:49.000000+05:30,True
+1,10,DEMO-2-25,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-08T12:51:34.000000+05:30,False
+1,35,DEMO-2-65,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-08T18:32:38.000000+05:30,True
+3,25,DEMO-2-43,1,Market junction,SAMPLE-B,Central interchange,2026-10-08T07:05:55.000000+05:30,True
+2,25,,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-08T17:52:51.000000+05:30,True
+1,10,DEMO-2-54,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-08T07:04:27.000000+05:30,False
+3,20,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-08T17:45:43.000000+05:30,False
+1,15,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-08T10:20:53.000000+05:30,True
+1,22,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-08T07:12:18.000000+05:30,True
+1,35,DEMO-3-61,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-08T07:10:30.000000+05:30,False
+1,20,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-08T14:56:03.000000+05:30,True
+1,22,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-08T17:55:02.000000+05:30,True
+3,30,DEMO-3-82,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-08T13:06:49.000000+05:30,True
+2,22,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-08T17:31:50.000000+05:30,False
+1,20,,1,Central interchange,SAMPLE-C,Connaught Place,2026-10-08T07:37:57.000000+05:30,False
+1,15,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-08T21:13:39.000000+05:30,False
+1,35,DEMO-3-16,2,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-08T08:53:04.000000+05:30,False
+1,22,DEMO-3-31,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-08T10:56:17.000000+05:30,False
+3,22,,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-08T08:04:01.000000+05:30,True
+4,35,DEMO-3-88,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-08T11:33:38.000000+05:30,False
+2,10,DEMO-3-98,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-08T09:08:01.000000+05:30,True
+2,20,DEMO-4-83,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-08T07:32:30.000000+05:30,False
+2,20,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-08T13:14:21.000000+05:30,False
+1,25,DEMO-4-79,2,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-08T08:15:27.000000+05:30,False
+1,25,DEMO-4-19,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-08T08:15:23.000000+05:30,True
+2,25,DEMO-4-64,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-08T13:34:29.000000+05:30,False
+3,25,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-08T19:42:51.000000+05:30,True
+2,10,,2,Connaught Place,SAMPLE-D,Nehru Place,2026-10-08T18:03:06.000000+05:30,True
+1,25,DEMO-4-82,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-08T18:56:56.000000+05:30,False
+1,22,DEMO-4-75,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-08T19:56:31.000000+05:30,False
+1,30,DEMO-4-53,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-08T08:19:40.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-08T11:44:52.000000+05:30,False
+1,10,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-08T14:53:59.000000+05:30,False
+1,25,DEMO-1-12,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-09T20:48:30.000000+05:30,False
+2,25,DEMO-1-27,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-09T09:06:10.000000+05:30,False
+1,35,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-09T20:53:44.000000+05:30,True
+1,15,,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-09T10:38:13.000000+05:30,True
+1,15,DEMO-1-43,1,Market junction,SAMPLE-A,Central interchange,2026-10-09T14:01:27.000000+05:30,False
+1,25,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-09T09:07:56.000000+05:30,False
+3,10,DEMO-1-88,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-09T07:20:01.000000+05:30,True
+1,20,,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-09T19:54:24.000000+05:30,False
+3,20,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-09T10:16:46.000000+05:30,False
+4,15,DEMO-1-67,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-09T21:47:44.000000+05:30,True
+1,25,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-09T19:00:18.000000+05:30,False
+4,35,DEMO-2-72,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-09T15:47:48.000000+05:30,True
+1,20,DEMO-2-97,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-09T13:53:12.000000+05:30,False
+1,25,,1,Connaught Place,SAMPLE-B,Market junction,2026-10-09T14:39:32.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-09T18:33:48.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-B,Central interchange,2026-10-09T20:24:37.000000+05:30,False
+1,35,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-09T13:15:05.000000+05:30,True
+1,35,DEMO-2-94,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-09T20:54:36.000000+05:30,False
+1,25,DEMO-2-34,1,Market junction,SAMPLE-B,Central interchange,2026-10-09T13:58:08.000000+05:30,True
+4,10,DEMO-2-63,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-09T19:32:58.000000+05:30,True
+1,10,,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-09T17:53:19.000000+05:30,False
+1,15,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-09T12:23:50.000000+05:30,False
+2,25,,2,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-09T13:40:42.000000+05:30,False
+1,22,,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-09T08:40:16.000000+05:30,True
+1,22,DEMO-2-74,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-09T07:59:09.000000+05:30,False
+1,25,DEMO-2-34,1,Market junction,SAMPLE-B,Central interchange,2026-10-09T09:17:04.000000+05:30,False
+1,30,DEMO-2-71,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-09T07:36:28.000000+05:30,False
+1,10,,2,Nehru Place,SAMPLE-B,Market junction,2026-10-09T13:00:53.000000+05:30,False
+2,25,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-09T15:46:48.000000+05:30,True
+2,30,,2,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-09T10:38:19.000000+05:30,False
+3,22,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-09T08:36:42.000000+05:30,False
+2,35,DEMO-3-66,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-09T18:42:11.000000+05:30,False
+1,22,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-09T09:49:39.000000+05:30,True
+2,20,DEMO-3-88,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-09T13:27:39.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-09T14:35:26.000000+05:30,True
+1,22,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-09T17:05:52.000000+05:30,False
+1,22,DEMO-3-24,1,Connaught Place,SAMPLE-C,Market junction,2026-10-09T13:37:53.000000+05:30,False
+1,30,,2,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-09T20:36:35.000000+05:30,False
+1,35,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-09T14:07:14.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-09T14:24:20.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-09T09:58:29.000000+05:30,False
+1,30,DEMO-3-34,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-09T19:53:32.000000+05:30,True
+1,35,,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-09T17:45:01.000000+05:30,False
+1,20,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-09T13:10:33.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-09T20:06:33.000000+05:30,True
+1,20,DEMO-4-20,2,Nehru Place,SAMPLE-D,Market junction,2026-10-09T20:18:00.000000+05:30,False
+1,25,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-09T12:56:40.000000+05:30,True
+2,15,DEMO-4-70,2,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-09T08:02:19.000000+05:30,True
+3,22,DEMO-4-72,1,Market junction,SAMPLE-D,Nehru Place,2026-10-09T21:23:27.000000+05:30,False
+2,22,DEMO-4-52,2,Nehru Place,SAMPLE-D,Connaught Place,2026-10-09T07:04:33.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-09T20:59:13.000000+05:30,False
+2,22,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-09T13:26:15.000000+05:30,False
+1,30,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-09T18:15:33.000000+05:30,False
+1,30,DEMO-4-22,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-09T19:19:01.000000+05:30,False
+2,25,,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-10T13:21:58.000000+05:30,True
+2,30,,2,Market junction,SAMPLE-A,Nehru Place,2026-10-10T09:48:16.000000+05:30,True
+1,35,,2,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-10T09:16:53.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-10T18:49:58.000000+05:30,False
+1,10,,1,Market junction,SAMPLE-A,Central interchange,2026-10-10T19:01:57.000000+05:30,True
+1,25,DEMO-1-27,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-10T17:20:07.000000+05:30,False
+2,10,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-10T14:44:57.000000+05:30,True
+1,25,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-10T09:09:02.000000+05:30,False
+1,25,,2,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-10T07:41:48.000000+05:30,False
+1,30,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-10T17:04:21.000000+05:30,False
+2,35,DEMO-1-90,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-10T19:26:00.000000+05:30,True
+1,25,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-10T08:08:44.000000+05:30,False
+1,15,DEMO-1-73,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-10T11:01:00.000000+05:30,True
+1,22,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-10T07:22:10.000000+05:30,True
+1,22,DEMO-2-39,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-10T11:13:04.000000+05:30,False
+1,35,,1,Market junction,SAMPLE-B,Central interchange,2026-10-10T13:54:32.000000+05:30,False
+1,15,DEMO-2-11,2,Market junction,SAMPLE-B,Central interchange,2026-10-10T10:35:44.000000+05:30,False
+1,22,,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-10T17:51:45.000000+05:30,True
+1,30,,2,Market junction,SAMPLE-B,Central interchange,2026-10-10T18:43:58.000000+05:30,True
+2,10,,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-10T09:27:33.000000+05:30,True
+1,25,,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-10T07:55:51.000000+05:30,True
+2,20,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-10T21:56:40.000000+05:30,True
+2,25,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-10T21:29:50.000000+05:30,False
+1,22,DEMO-2-27,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-10T18:01:23.000000+05:30,True
+2,25,DEMO-2-27,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-10T15:59:39.000000+05:30,True
+2,35,DEMO-2-85,1,Market junction,SAMPLE-B,Nehru Place,2026-10-10T17:26:01.000000+05:30,True
+1,22,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-10T18:36:46.000000+05:30,True
+1,20,DEMO-2-17,1,Central interchange,SAMPLE-B,Market junction,2026-10-10T18:58:23.000000+05:30,False
+3,15,,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-10T09:19:22.000000+05:30,True
+1,22,DEMO-3-57,1,Connaught Place,SAMPLE-C,Market junction,2026-10-10T19:55:13.000000+05:30,False
+1,10,DEMO-3-59,2,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-10T17:30:55.000000+05:30,False
+2,22,,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-10T08:15:18.000000+05:30,False
+2,25,DEMO-3-30,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-10T07:38:02.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-10T10:52:54.000000+05:30,False
+3,25,,2,Nehru Place,SAMPLE-C,Market junction,2026-10-10T13:37:50.000000+05:30,True
+1,20,DEMO-3-91,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-10T07:11:50.000000+05:30,False
+1,30,DEMO-3-46,1,Central interchange,SAMPLE-C,Connaught Place,2026-10-10T07:10:05.000000+05:30,True
+1,30,DEMO-3-36,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-10T09:28:20.000000+05:30,False
+2,10,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-10T09:23:41.000000+05:30,True
+2,35,DEMO-3-48,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-10T19:05:01.000000+05:30,False
+2,10,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-10T20:14:01.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-10T11:23:09.000000+05:30,False
+3,15,DEMO-4-30,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-10T09:28:31.000000+05:30,False
+2,15,DEMO-4-20,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-10T07:00:53.000000+05:30,True
+1,25,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-10T19:05:49.000000+05:30,True
+2,20,DEMO-4-15,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-10T12:01:42.000000+05:30,False
+1,25,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-10T07:45:41.000000+05:30,True
+1,35,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-10T13:56:09.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-10T07:33:13.000000+05:30,True
+2,30,DEMO-4-55,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-10T19:04:04.000000+05:30,False
+1,10,,2,Central interchange,SAMPLE-A,Nehru Place,2026-10-11T17:41:15.000000+05:30,False
+1,10,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-11T19:51:28.000000+05:30,True
+3,20,DEMO-1-26,1,Market junction,SAMPLE-A,Nehru Place,2026-10-11T13:56:28.000000+05:30,True
+1,25,DEMO-1-33,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-11T18:55:13.000000+05:30,True
+1,30,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-11T18:28:36.000000+05:30,False
+1,30,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-11T07:06:56.000000+05:30,True
+2,35,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-11T11:12:45.000000+05:30,True
+2,22,DEMO-1-32,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-11T08:03:49.000000+05:30,False
+1,30,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-11T11:18:51.000000+05:30,True
+2,30,DEMO-1-43,1,Market junction,SAMPLE-A,Central interchange,2026-10-11T07:53:10.000000+05:30,False
+3,20,DEMO-2-31,1,Market junction,SAMPLE-B,Central interchange,2026-10-11T08:29:15.000000+05:30,True
+1,15,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-11T13:42:24.000000+05:30,True
+1,25,DEMO-2-70,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-11T19:29:56.000000+05:30,True
+2,35,,2,Market junction,SAMPLE-B,Nehru Place,2026-10-11T11:41:54.000000+05:30,False
+1,25,DEMO-2-91,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-11T17:25:52.000000+05:30,False
+1,15,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-11T07:47:20.000000+05:30,True
+1,20,DEMO-2-16,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-11T13:07:55.000000+05:30,False
+3,15,DEMO-2-35,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-11T19:15:56.000000+05:30,True
+1,35,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-11T13:54:51.000000+05:30,False
+2,22,DEMO-3-40,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-11T18:36:50.000000+05:30,True
+1,22,DEMO-3-72,1,Central interchange,SAMPLE-C,Market junction,2026-10-11T14:01:24.000000+05:30,False
+1,10,DEMO-3-72,2,Nehru Place,SAMPLE-C,Market junction,2026-10-11T08:57:30.000000+05:30,True
+2,25,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-11T09:14:35.000000+05:30,True
+1,22,DEMO-3-61,1,Nehru Place,SAMPLE-C,Market junction,2026-10-11T15:14:10.000000+05:30,False
+2,35,,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-11T09:06:29.000000+05:30,True
+1,22,DEMO-3-38,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-11T09:06:16.000000+05:30,False
+1,15,,2,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-11T09:13:14.000000+05:30,False
+1,20,DEMO-4-72,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-11T11:14:06.000000+05:30,True
+1,25,DEMO-4-72,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-11T08:43:39.000000+05:30,False
+1,15,DEMO-4-13,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-11T08:44:48.000000+05:30,True
+1,22,DEMO-4-79,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-11T18:08:00.000000+05:30,True
+1,35,DEMO-4-37,2,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-11T21:02:49.000000+05:30,False
+2,20,DEMO-4-13,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-11T09:46:06.000000+05:30,True
+3,10,DEMO-4-35,2,Central interchange,SAMPLE-D,Market junction,2026-10-11T11:04:52.000000+05:30,True
+1,10,DEMO-4-43,2,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-11T19:17:35.000000+05:30,False
+2,10,DEMO-1-97,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-12T19:29:58.000000+05:30,True
+1,10,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-12T08:03:29.000000+05:30,False
+1,25,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-12T09:17:39.000000+05:30,False
+2,22,DEMO-1-33,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-12T07:08:22.000000+05:30,True
+1,22,DEMO-1-16,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-12T18:48:40.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-12T18:20:17.000000+05:30,True
+1,15,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-12T13:44:55.000000+05:30,False
+1,35,DEMO-1-66,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-12T07:03:07.000000+05:30,True
+1,30,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-12T20:51:27.000000+05:30,False
+1,30,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-12T07:59:08.000000+05:30,True
+1,22,DEMO-2-37,1,Market junction,SAMPLE-B,Central interchange,2026-10-12T18:57:31.000000+05:30,True
+1,30,DEMO-2-97,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-12T19:55:58.000000+05:30,False
+1,30,,1,Market junction,SAMPLE-B,Nehru Place,2026-10-12T09:27:17.000000+05:30,True
+1,25,DEMO-2-56,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-12T17:32:06.000000+05:30,True
+2,30,DEMO-2-85,1,Market junction,SAMPLE-B,Central interchange,2026-10-12T18:24:31.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-12T18:39:01.000000+05:30,True
+1,30,DEMO-2-73,2,Market junction,SAMPLE-B,Nehru Place,2026-10-12T18:45:22.000000+05:30,True
+3,20,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-12T07:32:55.000000+05:30,True
+1,30,DEMO-2-19,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-12T19:19:39.000000+05:30,True
+1,25,,2,Market junction,SAMPLE-B,Nehru Place,2026-10-12T07:42:06.000000+05:30,True
+3,15,DEMO-3-20,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-12T09:33:39.000000+05:30,True
+1,22,DEMO-3-91,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-12T09:30:22.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-12T08:29:27.000000+05:30,True
+1,15,DEMO-3-88,2,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-12T07:34:05.000000+05:30,False
+1,15,DEMO-3-57,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-12T13:12:10.000000+05:30,True
+1,22,DEMO-3-21,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-12T17:21:09.000000+05:30,False
+1,20,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-12T19:24:28.000000+05:30,True
+4,20,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-12T09:56:09.000000+05:30,True
+1,10,,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-12T18:38:57.000000+05:30,True
+1,22,DEMO-4-62,2,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-12T18:49:02.000000+05:30,True
+1,20,,2,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-12T11:42:18.000000+05:30,True
+2,22,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-12T18:31:53.000000+05:30,False
+1,35,DEMO-4-75,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-12T15:24:25.000000+05:30,False
+1,22,DEMO-4-56,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-12T17:46:55.000000+05:30,True
+2,35,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-12T17:40:31.000000+05:30,False
+2,30,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-12T08:33:46.000000+05:30,True
+2,30,,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-12T09:33:58.000000+05:30,False
+1,15,DEMO-4-90,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-12T20:50:42.000000+05:30,True
+1,10,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-12T14:18:48.000000+05:30,False
+2,10,DEMO-4-84,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-12T18:21:44.000000+05:30,True
+2,20,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-13T18:11:05.000000+05:30,True
+2,35,DEMO-1-85,2,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-13T11:30:46.000000+05:30,False
+1,25,DEMO-1-83,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-13T09:52:59.000000+05:30,False
+1,35,,1,Market junction,SAMPLE-A,Central interchange,2026-10-13T08:07:18.000000+05:30,True
+2,22,,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-13T17:44:31.000000+05:30,True
+3,35,DEMO-1-89,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-13T18:28:08.000000+05:30,False
+1,25,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-13T17:01:46.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-13T12:37:32.000000+05:30,False
+3,25,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-13T08:17:38.000000+05:30,True
+1,22,DEMO-1-43,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-13T20:29:59.000000+05:30,True
+1,10,DEMO-1-21,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-13T19:01:02.000000+05:30,False
+1,20,DEMO-1-48,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-13T12:11:12.000000+05:30,False
+1,10,DEMO-1-38,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-13T10:47:42.000000+05:30,False
+1,35,DEMO-1-97,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-13T09:44:50.000000+05:30,True
+3,25,DEMO-1-24,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-13T18:56:30.000000+05:30,True
+2,35,DEMO-1-27,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-13T18:02:21.000000+05:30,True
+2,35,DEMO-1-90,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-13T07:38:54.000000+05:30,False
+4,10,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-13T09:46:30.000000+05:30,True
+1,20,DEMO-2-58,2,Connaught Place,SAMPLE-B,Nehru Place,2026-10-13T07:53:10.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-13T18:34:06.000000+05:30,True
+2,30,DEMO-2-52,2,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-13T15:57:12.000000+05:30,False
+1,25,DEMO-2-92,2,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-13T18:48:51.000000+05:30,False
+1,35,DEMO-2-17,2,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-13T20:59:27.000000+05:30,True
+2,20,DEMO-2-53,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-13T09:32:06.000000+05:30,True
+1,25,DEMO-2-72,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-13T18:20:10.000000+05:30,True
+1,35,DEMO-2-72,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-13T13:36:24.000000+05:30,False
+1,25,,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-13T07:16:06.000000+05:30,False
+2,22,DEMO-3-57,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-13T17:45:19.000000+05:30,False
+1,10,DEMO-3-17,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-13T21:09:09.000000+05:30,False
+1,25,,2,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-13T13:48:44.000000+05:30,False
+1,25,DEMO-3-63,2,Market junction,SAMPLE-C,Connaught Place,2026-10-13T18:38:59.000000+05:30,True
+3,35,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-13T09:33:09.000000+05:30,True
+1,25,DEMO-3-51,1,Market junction,SAMPLE-C,Nehru Place,2026-10-13T14:37:48.000000+05:30,True
+3,20,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-13T14:35:01.000000+05:30,True
+4,35,,1,Central interchange,SAMPLE-C,Market junction,2026-10-13T08:29:38.000000+05:30,True
+2,15,,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-13T07:33:57.000000+05:30,False
+1,30,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-13T07:38:40.000000+05:30,True
+1,30,DEMO-4-16,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-13T08:57:54.000000+05:30,True
+1,15,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-13T17:16:22.000000+05:30,False
+2,25,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-13T11:10:26.000000+05:30,True
+3,35,,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-13T10:35:17.000000+05:30,True
+1,15,DEMO-4-40,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-13T09:02:24.000000+05:30,True
+1,25,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-13T19:45:41.000000+05:30,True
+2,15,,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-14T08:50:55.000000+05:30,False
+1,15,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-14T07:59:40.000000+05:30,False
+1,30,,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-14T10:59:47.000000+05:30,False
+2,35,,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-14T08:40:12.000000+05:30,True
+3,22,DEMO-1-20,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-14T14:52:28.000000+05:30,False
+2,30,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-14T18:14:06.000000+05:30,True
+1,22,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-14T08:32:37.000000+05:30,False
+2,30,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-14T19:16:54.000000+05:30,True
+4,15,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-14T20:29:02.000000+05:30,False
+2,25,,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-14T09:27:44.000000+05:30,True
+1,15,DEMO-1-84,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-14T19:04:21.000000+05:30,True
+2,15,DEMO-1-73,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-14T14:31:21.000000+05:30,False
+1,10,,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-14T15:25:00.000000+05:30,False
+1,30,DEMO-2-71,1,Market junction,SAMPLE-B,Central interchange,2026-10-14T09:46:14.000000+05:30,False
+1,22,DEMO-2-62,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-14T08:55:51.000000+05:30,False
+1,25,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-14T18:47:22.000000+05:30,False
+1,35,DEMO-2-13,1,Nehru Place,SAMPLE-B,Market junction,2026-10-14T20:28:44.000000+05:30,True
+1,30,,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-14T14:15:05.000000+05:30,True
+1,10,DEMO-2-89,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-14T14:39:58.000000+05:30,False
+2,35,DEMO-2-61,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-14T19:11:40.000000+05:30,False
+1,20,DEMO-2-19,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-14T21:59:53.000000+05:30,False
+1,30,DEMO-2-18,1,Nehru Place,SAMPLE-B,Market junction,2026-10-14T07:59:54.000000+05:30,False
+2,20,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-14T21:26:58.000000+05:30,True
+1,15,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-14T08:50:54.000000+05:30,False
+2,15,,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-14T17:28:32.000000+05:30,True
+1,20,,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-14T08:59:39.000000+05:30,True
+1,30,,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-14T12:06:50.000000+05:30,False
+1,10,DEMO-2-49,1,Central interchange,SAMPLE-B,Market junction,2026-10-14T12:18:39.000000+05:30,True
+1,15,DEMO-3-77,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-14T17:24:40.000000+05:30,False
+2,20,DEMO-3-36,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-14T17:38:19.000000+05:30,False
+1,35,DEMO-3-27,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-14T08:23:38.000000+05:30,True
+1,10,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-14T07:47:25.000000+05:30,False
+1,10,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-14T07:23:39.000000+05:30,False
+1,15,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-14T20:15:35.000000+05:30,True
+1,25,DEMO-3-65,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-14T09:52:36.000000+05:30,False
+2,35,,2,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-14T10:53:46.000000+05:30,False
+3,15,DEMO-3-97,2,Market junction,SAMPLE-C,Nehru Place,2026-10-14T14:48:55.000000+05:30,True
+2,25,DEMO-3-16,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-14T13:09:34.000000+05:30,True
+1,30,,2,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-14T17:54:59.000000+05:30,True
+1,20,DEMO-4-32,2,Market junction,SAMPLE-D,Connaught Place,2026-10-14T12:32:33.000000+05:30,True
+1,30,DEMO-4-81,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-14T09:00:33.000000+05:30,True
+2,22,DEMO-4-29,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-14T14:54:02.000000+05:30,True
+1,35,DEMO-4-74,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-14T19:08:40.000000+05:30,True
+2,25,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-14T18:30:57.000000+05:30,True
+4,10,,2,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-14T08:31:22.000000+05:30,True
+1,15,DEMO-4-73,1,Market junction,SAMPLE-D,Connaught Place,2026-10-14T18:13:48.000000+05:30,True
+1,10,DEMO-4-36,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-14T13:35:50.000000+05:30,True
+3,22,DEMO-4-13,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-14T19:01:51.000000+05:30,False
+1,35,DEMO-1-15,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-15T18:05:01.000000+05:30,False
+1,30,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-15T11:37:43.000000+05:30,True
+2,25,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-15T07:11:26.000000+05:30,True
+3,15,DEMO-1-20,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-15T15:18:26.000000+05:30,False
+1,20,DEMO-1-85,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-15T08:19:36.000000+05:30,True
+1,20,DEMO-1-43,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-15T20:44:10.000000+05:30,False
+2,25,DEMO-1-71,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-15T08:35:37.000000+05:30,False
+1,35,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-15T07:30:55.000000+05:30,True
+2,15,DEMO-1-69,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-15T10:12:10.000000+05:30,True
+2,25,,1,Market junction,SAMPLE-A,Central interchange,2026-10-15T11:33:14.000000+05:30,True
+1,30,DEMO-2-75,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-15T18:31:46.000000+05:30,True
+1,20,DEMO-2-58,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-15T15:30:47.000000+05:30,True
+1,22,,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-15T13:25:13.000000+05:30,False
+2,22,,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-15T17:08:14.000000+05:30,True
+2,10,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-15T08:07:13.000000+05:30,False
+2,10,,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-15T20:33:31.000000+05:30,True
+1,30,,1,Connaught Place,SAMPLE-B,Market junction,2026-10-15T17:39:49.000000+05:30,True
+1,22,DEMO-2-88,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-15T11:36:14.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-15T12:47:00.000000+05:30,True
+1,15,DEMO-2-29,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-15T17:31:33.000000+05:30,True
+1,22,,1,Market junction,SAMPLE-B,Nehru Place,2026-10-15T20:38:39.000000+05:30,True
+3,22,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-15T10:57:50.000000+05:30,True
+1,25,DEMO-2-59,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-15T15:01:50.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-15T08:21:45.000000+05:30,False
+1,35,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-15T18:38:18.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-15T12:15:04.000000+05:30,True
+2,30,DEMO-3-74,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-15T09:33:36.000000+05:30,False
+2,15,,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-15T08:40:16.000000+05:30,True
+1,10,,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-15T15:12:16.000000+05:30,False
+1,25,DEMO-3-68,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-15T20:46:41.000000+05:30,False
+1,35,DEMO-3-63,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-15T20:01:04.000000+05:30,True
+1,30,DEMO-3-38,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-15T17:01:15.000000+05:30,False
+2,15,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-15T08:13:48.000000+05:30,True
+1,15,,2,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-15T07:54:59.000000+05:30,True
+2,22,DEMO-3-88,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-15T17:35:01.000000+05:30,True
+1,30,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-15T07:31:59.000000+05:30,True
+3,35,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-15T19:18:11.000000+05:30,False
+2,35,,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-15T07:26:49.000000+05:30,True
+3,30,DEMO-4-21,1,Central interchange,SAMPLE-D,Market junction,2026-10-15T09:43:14.000000+05:30,True
+4,10,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-15T09:45:50.000000+05:30,True
+2,22,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-15T14:29:36.000000+05:30,False
+3,35,,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-15T11:13:57.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-15T17:51:27.000000+05:30,True
+2,22,DEMO-4-93,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-15T21:53:28.000000+05:30,True
+1,35,DEMO-4-32,1,Central interchange,SAMPLE-D,Market junction,2026-10-15T09:50:41.000000+05:30,True
+2,20,DEMO-4-27,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-15T19:29:42.000000+05:30,True
+1,15,DEMO-4-96,2,Market junction,SAMPLE-D,Connaught Place,2026-10-15T21:03:54.000000+05:30,False
+2,22,DEMO-4-87,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-15T11:06:37.000000+05:30,True
+4,10,DEMO-4-52,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-15T18:47:58.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-16T11:26:18.000000+05:30,True
+2,20,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-16T11:51:29.000000+05:30,False
+2,22,DEMO-1-41,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-16T19:49:31.000000+05:30,False
+3,30,,2,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-16T07:06:23.000000+05:30,True
+1,30,DEMO-1-73,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-16T13:31:38.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-16T13:10:25.000000+05:30,True
+2,30,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-16T07:38:23.000000+05:30,False
+1,35,DEMO-1-45,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-16T20:34:22.000000+05:30,False
+1,30,DEMO-1-74,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-16T19:33:16.000000+05:30,False
+1,35,DEMO-1-81,1,Market junction,SAMPLE-A,Central interchange,2026-10-16T20:25:34.000000+05:30,True
+1,20,DEMO-2-95,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-16T08:19:23.000000+05:30,True
+1,10,DEMO-2-46,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-16T18:00:00.000000+05:30,False
+2,10,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-16T07:54:58.000000+05:30,False
+1,10,DEMO-2-74,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-16T15:08:39.000000+05:30,True
+2,10,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-16T17:46:40.000000+05:30,True
+1,15,DEMO-2-12,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-16T17:43:37.000000+05:30,False
+3,10,DEMO-2-18,1,Nehru Place,SAMPLE-B,Market junction,2026-10-16T17:58:11.000000+05:30,True
+2,10,DEMO-2-55,1,Connaught Place,SAMPLE-B,Market junction,2026-10-16T08:44:22.000000+05:30,True
+3,15,,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-16T08:07:31.000000+05:30,True
+1,30,DEMO-2-79,1,Nehru Place,SAMPLE-B,Market junction,2026-10-16T10:28:29.000000+05:30,True
+2,30,DEMO-2-48,1,Market junction,SAMPLE-B,Nehru Place,2026-10-16T12:00:28.000000+05:30,True
+1,35,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-16T18:36:24.000000+05:30,True
+1,10,,2,Nehru Place,SAMPLE-C,Connaught Place,2026-10-16T21:41:48.000000+05:30,False
+4,35,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-16T20:58:46.000000+05:30,False
+1,15,,2,Market junction,SAMPLE-C,Nehru Place,2026-10-16T20:19:46.000000+05:30,False
+1,22,DEMO-3-59,1,Connaught Place,SAMPLE-C,Market junction,2026-10-16T10:59:02.000000+05:30,True
+1,25,,2,Connaught Place,SAMPLE-C,Nehru Place,2026-10-16T08:48:07.000000+05:30,True
+3,35,DEMO-3-53,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-16T13:25:17.000000+05:30,False
+1,25,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-16T07:19:57.000000+05:30,False
+1,20,DEMO-4-23,2,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-16T21:38:22.000000+05:30,True
+2,25,,2,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-16T11:46:20.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-16T19:01:31.000000+05:30,True
+1,25,DEMO-4-55,2,Connaught Place,SAMPLE-D,Market junction,2026-10-16T11:28:05.000000+05:30,True
+1,30,DEMO-4-94,2,Connaught Place,SAMPLE-D,Nehru Place,2026-10-16T08:56:42.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-16T21:07:13.000000+05:30,False
+1,10,DEMO-4-37,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-16T07:19:21.000000+05:30,False
+2,15,,2,Nehru Place,SAMPLE-D,Connaught Place,2026-10-16T18:49:29.000000+05:30,True
+1,25,DEMO-4-86,1,Market junction,SAMPLE-D,Connaught Place,2026-10-16T13:34:34.000000+05:30,True
+2,35,DEMO-4-77,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-16T10:53:33.000000+05:30,False
+2,25,DEMO-4-92,1,Market junction,SAMPLE-D,Nehru Place,2026-10-16T17:04:09.000000+05:30,True
+1,10,DEMO-4-88,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-16T13:40:03.000000+05:30,True
+4,22,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-17T15:25:53.000000+05:30,True
+1,30,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-17T18:39:38.000000+05:30,False
+1,15,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-17T08:48:44.000000+05:30,False
+1,15,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-17T17:34:12.000000+05:30,False
+1,20,DEMO-1-36,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-17T19:25:14.000000+05:30,False
+3,25,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-17T18:53:56.000000+05:30,False
+3,22,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-17T21:38:42.000000+05:30,False
+1,30,DEMO-1-10,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-17T17:48:33.000000+05:30,False
+1,35,DEMO-1-96,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-17T18:33:20.000000+05:30,False
+1,35,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-17T11:07:03.000000+05:30,False
+2,20,DEMO-1-64,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-17T19:48:50.000000+05:30,False
+2,30,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-17T18:06:07.000000+05:30,False
+2,20,DEMO-1-84,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-17T14:16:40.000000+05:30,False
+2,15,DEMO-1-45,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-17T17:14:22.000000+05:30,False
+2,10,DEMO-2-79,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-17T20:34:07.000000+05:30,False
+2,25,DEMO-2-76,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-17T17:53:58.000000+05:30,False
+1,25,DEMO-2-24,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-17T08:23:22.000000+05:30,False
+1,35,DEMO-2-11,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-17T12:59:45.000000+05:30,True
+3,30,,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-17T10:43:00.000000+05:30,True
+4,35,DEMO-2-59,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-17T07:28:42.000000+05:30,False
+2,10,,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-17T14:41:22.000000+05:30,False
+2,35,DEMO-2-78,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-17T17:51:59.000000+05:30,False
+1,10,DEMO-2-34,2,Market junction,SAMPLE-B,Nehru Place,2026-10-17T15:09:38.000000+05:30,False
+3,35,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-17T17:20:56.000000+05:30,False
+3,25,,1,Central interchange,SAMPLE-B,Market junction,2026-10-17T19:12:26.000000+05:30,False
+2,30,,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-17T14:57:56.000000+05:30,False
+1,20,,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-17T08:48:05.000000+05:30,False
+2,25,,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-17T10:39:21.000000+05:30,False
+1,30,DEMO-3-84,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-17T15:43:09.000000+05:30,False
+2,10,DEMO-3-26,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-17T19:36:56.000000+05:30,False
+1,20,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-17T07:49:40.000000+05:30,False
+1,10,,2,Market junction,SAMPLE-C,Connaught Place,2026-10-17T14:12:10.000000+05:30,True
+1,15,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-17T21:04:50.000000+05:30,False
+1,20,,2,Connaught Place,SAMPLE-C,Nehru Place,2026-10-17T07:59:59.000000+05:30,False
+1,10,DEMO-3-98,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-17T07:36:45.000000+05:30,False
+4,35,DEMO-3-24,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-17T15:51:45.000000+05:30,True
+1,10,DEMO-3-73,1,Connaught Place,SAMPLE-C,Market junction,2026-10-17T17:12:55.000000+05:30,True
+1,22,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-17T11:55:03.000000+05:30,False
+1,22,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-17T20:04:37.000000+05:30,False
+1,15,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-17T08:28:28.000000+05:30,True
+1,10,DEMO-4-31,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-17T19:55:16.000000+05:30,True
+2,10,DEMO-4-38,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-17T10:16:20.000000+05:30,False
+2,30,DEMO-4-83,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-17T07:00:09.000000+05:30,False
+1,30,DEMO-4-71,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-17T17:41:58.000000+05:30,False
+1,35,DEMO-4-84,2,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-17T12:04:01.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-17T18:36:32.000000+05:30,True
+1,10,DEMO-4-54,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-17T07:36:26.000000+05:30,True
+1,10,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-17T10:58:28.000000+05:30,False
+2,30,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-17T11:30:52.000000+05:30,True
+1,35,DEMO-1-11,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-18T15:45:00.000000+05:30,True
+1,10,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-18T12:53:53.000000+05:30,False
+2,25,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-18T15:53:16.000000+05:30,False
+2,30,DEMO-1-25,1,Market junction,SAMPLE-A,Central interchange,2026-10-18T15:55:46.000000+05:30,True
+3,25,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-18T10:26:22.000000+05:30,False
+2,15,,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-18T12:08:16.000000+05:30,False
+1,22,DEMO-1-83,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-18T17:04:31.000000+05:30,True
+1,15,DEMO-1-53,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-18T08:08:47.000000+05:30,False
+2,35,DEMO-1-82,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-18T07:15:57.000000+05:30,False
+1,15,,2,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-18T19:23:17.000000+05:30,True
+2,15,DEMO-1-15,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-18T19:23:24.000000+05:30,False
+1,25,DEMO-1-37,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-18T11:11:49.000000+05:30,True
+2,10,DEMO-1-92,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-18T19:54:55.000000+05:30,True
+1,15,,2,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-18T12:54:32.000000+05:30,True
+1,35,DEMO-1-76,2,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-18T21:37:39.000000+05:30,True
+2,15,DEMO-1-41,1,Market junction,SAMPLE-A,Central interchange,2026-10-18T19:31:36.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-18T12:13:00.000000+05:30,True
+1,15,,1,Connaught Place,SAMPLE-B,Market junction,2026-10-18T09:46:01.000000+05:30,False
+1,10,,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-18T17:32:15.000000+05:30,True
+2,22,,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-18T19:10:03.000000+05:30,False
+1,35,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-18T18:14:43.000000+05:30,True
+1,25,DEMO-2-91,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-18T19:33:11.000000+05:30,False
+2,35,DEMO-2-86,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-18T07:22:23.000000+05:30,False
+3,20,,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-18T13:20:32.000000+05:30,False
+2,25,,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-18T07:25:40.000000+05:30,False
+1,22,,2,Connaught Place,SAMPLE-B,Nehru Place,2026-10-18T09:28:36.000000+05:30,False
+1,35,,1,Central interchange,SAMPLE-C,Connaught Place,2026-10-18T09:36:37.000000+05:30,False
+2,35,DEMO-3-71,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-18T18:50:34.000000+05:30,True
+3,35,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-18T13:44:44.000000+05:30,False
+3,10,DEMO-3-17,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-18T17:17:24.000000+05:30,False
+1,35,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-18T12:08:31.000000+05:30,True
+1,10,DEMO-3-26,2,Nehru Place,SAMPLE-C,Market junction,2026-10-18T20:13:56.000000+05:30,False
+1,30,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-18T07:12:38.000000+05:30,False
+1,20,DEMO-3-87,1,Market junction,SAMPLE-C,Connaught Place,2026-10-18T17:17:16.000000+05:30,False
+1,20,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-18T07:16:23.000000+05:30,False
+1,22,DEMO-4-33,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-18T12:16:48.000000+05:30,True
+1,30,,2,Central interchange,SAMPLE-D,Market junction,2026-10-18T08:52:57.000000+05:30,False
+1,10,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-18T19:22:05.000000+05:30,False
+1,22,DEMO-4-37,1,Market junction,SAMPLE-D,Connaught Place,2026-10-18T13:09:21.000000+05:30,False
+1,35,DEMO-4-39,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-18T17:25:16.000000+05:30,False
+1,20,DEMO-4-30,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-18T08:28:57.000000+05:30,True
+1,35,,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-18T10:57:10.000000+05:30,True
+1,25,DEMO-4-22,1,Market junction,SAMPLE-D,Connaught Place,2026-10-18T20:02:45.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-18T17:24:22.000000+05:30,True
+1,10,DEMO-4-70,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-18T20:11:24.000000+05:30,False
+1,25,DEMO-4-87,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-18T07:28:32.000000+05:30,True
+1,20,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-18T21:45:05.000000+05:30,False
+1,35,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-18T13:43:54.000000+05:30,False
+2,20,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-18T13:30:11.000000+05:30,False
+2,15,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-18T07:39:21.000000+05:30,False
+2,30,,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-18T08:12:23.000000+05:30,True
+1,35,DEMO-4-48,2,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-18T07:11:19.000000+05:30,True
+4,20,DEMO-1-20,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-19T17:57:00.000000+05:30,True
+2,15,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-19T17:12:43.000000+05:30,False
+1,20,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-19T12:56:38.000000+05:30,False
+2,30,,1,Market junction,SAMPLE-A,Central interchange,2026-10-19T18:37:21.000000+05:30,False
+1,30,DEMO-1-82,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-19T18:14:13.000000+05:30,False
+1,10,DEMO-1-33,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-19T15:37:48.000000+05:30,True
+2,15,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-19T18:40:59.000000+05:30,False
+2,10,DEMO-1-94,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-19T17:15:36.000000+05:30,True
+2,20,DEMO-1-54,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-19T17:13:40.000000+05:30,True
+1,15,DEMO-1-97,2,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-19T18:55:30.000000+05:30,False
+3,35,DEMO-1-41,2,Market junction,SAMPLE-A,Nehru Place,2026-10-19T18:55:18.000000+05:30,True
+1,35,DEMO-1-95,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-19T14:05:48.000000+05:30,False
+1,35,DEMO-1-69,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-19T10:01:29.000000+05:30,True
+1,30,,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-19T13:11:30.000000+05:30,True
+2,35,DEMO-1-56,1,Market junction,SAMPLE-A,Central interchange,2026-10-19T13:38:15.000000+05:30,True
+1,35,DEMO-1-44,2,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-19T13:03:41.000000+05:30,False
+3,10,,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-19T07:35:11.000000+05:30,False
+1,15,DEMO-1-89,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-19T14:26:32.000000+05:30,False
+3,20,,2,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-19T19:41:06.000000+05:30,False
+1,10,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-19T15:53:46.000000+05:30,True
+1,22,DEMO-2-36,2,Connaught Place,SAMPLE-B,Nehru Place,2026-10-19T18:02:26.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-B,Central interchange,2026-10-19T19:08:56.000000+05:30,True
+1,10,,1,Central interchange,SAMPLE-B,Market junction,2026-10-19T15:57:08.000000+05:30,False
+2,35,,2,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-19T15:14:43.000000+05:30,True
+3,35,DEMO-2-63,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-19T13:27:07.000000+05:30,True
+2,15,,2,Nehru Place,SAMPLE-B,Central interchange,2026-10-19T18:26:36.000000+05:30,False
+1,10,,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-19T14:35:06.000000+05:30,False
+1,20,DEMO-2-26,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-19T11:30:55.000000+05:30,True
+2,25,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-19T08:34:47.000000+05:30,True
+1,20,DEMO-3-23,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-19T19:19:39.000000+05:30,False
+1,25,DEMO-3-39,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-19T08:09:58.000000+05:30,True
+2,35,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-19T15:10:27.000000+05:30,False
+2,15,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-19T17:20:42.000000+05:30,False
+1,35,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-19T15:16:19.000000+05:30,True
+1,30,DEMO-3-76,2,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-19T14:16:49.000000+05:30,True
+3,15,DEMO-3-57,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-19T12:59:59.000000+05:30,False
+2,20,DEMO-3-67,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-19T18:03:15.000000+05:30,False
+1,20,DEMO-3-48,1,Market junction,SAMPLE-C,Nehru Place,2026-10-19T08:34:35.000000+05:30,True
+1,10,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-19T12:49:52.000000+05:30,True
+1,15,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-19T17:22:49.000000+05:30,True
+3,25,DEMO-3-72,1,Central interchange,SAMPLE-C,Market junction,2026-10-19T20:10:32.000000+05:30,True
+1,15,DEMO-3-46,1,Central interchange,SAMPLE-C,Market junction,2026-10-19T17:12:11.000000+05:30,True
+4,35,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-19T09:24:36.000000+05:30,True
+2,25,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-19T07:45:37.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-19T17:15:14.000000+05:30,True
+2,25,DEMO-3-95,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-19T09:37:19.000000+05:30,False
+2,22,DEMO-4-15,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-19T19:45:27.000000+05:30,True
+1,30,,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-19T08:03:46.000000+05:30,False
+1,20,DEMO-4-89,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-19T19:47:23.000000+05:30,False
+1,15,,2,Connaught Place,SAMPLE-D,Nehru Place,2026-10-19T08:00:28.000000+05:30,True
+1,10,DEMO-4-65,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-19T18:45:57.000000+05:30,False
+1,35,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-19T12:27:44.000000+05:30,True
+1,35,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-19T08:56:49.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-19T14:09:25.000000+05:30,True
+1,30,,1,Central interchange,SAMPLE-D,Market junction,2026-10-19T21:44:51.000000+05:30,True
+1,22,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-19T08:15:58.000000+05:30,True
+4,30,DEMO-4-73,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-19T09:33:21.000000+05:30,False
+1,20,,2,Central interchange,SAMPLE-D,Market junction,2026-10-19T09:15:14.000000+05:30,False
+2,22,DEMO-4-62,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-19T15:35:52.000000+05:30,False
+2,35,,2,Market junction,SAMPLE-D,Connaught Place,2026-10-19T07:46:47.000000+05:30,True
+2,10,DEMO-4-63,1,Market junction,SAMPLE-D,Connaught Place,2026-10-19T07:00:29.000000+05:30,False
+2,25,DEMO-1-29,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-20T17:01:13.000000+05:30,True
+2,35,DEMO-1-18,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-20T14:27:57.000000+05:30,False
+2,25,DEMO-1-54,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-20T18:53:54.000000+05:30,False
+1,35,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-20T08:35:43.000000+05:30,True
+1,15,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-20T07:36:01.000000+05:30,True
+2,22,DEMO-1-49,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-20T18:26:31.000000+05:30,False
+1,10,DEMO-1-36,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-20T11:18:54.000000+05:30,False
+1,10,DEMO-1-48,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-20T14:56:37.000000+05:30,False
+1,22,,2,Market junction,SAMPLE-A,Nehru Place,2026-10-20T11:26:24.000000+05:30,False
+1,20,DEMO-1-32,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-20T13:51:28.000000+05:30,True
+1,20,DEMO-1-27,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-20T19:31:47.000000+05:30,True
+1,30,DEMO-1-79,2,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-20T18:21:28.000000+05:30,False
+1,35,DEMO-1-46,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-20T13:10:41.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-20T18:19:42.000000+05:30,False
+2,25,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-20T14:36:52.000000+05:30,False
+1,35,,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-20T11:05:45.000000+05:30,True
+1,35,,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-20T11:21:18.000000+05:30,False
+1,20,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-20T14:28:50.000000+05:30,False
+1,22,,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-20T07:56:50.000000+05:30,False
+1,35,DEMO-2-96,1,Nehru Place,SAMPLE-B,Market junction,2026-10-20T14:29:55.000000+05:30,False
+1,35,,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-20T13:59:32.000000+05:30,True
+1,15,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-20T07:25:22.000000+05:30,True
+1,22,DEMO-2-36,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-20T15:25:40.000000+05:30,True
+1,30,DEMO-2-50,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-20T13:31:28.000000+05:30,False
+1,25,,2,Connaught Place,SAMPLE-B,Nehru Place,2026-10-20T09:36:32.000000+05:30,True
+1,25,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-20T11:23:43.000000+05:30,False
+1,30,,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-20T20:36:47.000000+05:30,False
+1,22,DEMO-2-42,2,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-20T15:47:21.000000+05:30,True
+2,25,DEMO-2-55,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-20T21:20:21.000000+05:30,True
+2,20,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-20T18:00:47.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-20T18:00:06.000000+05:30,False
+1,35,DEMO-3-91,2,Market junction,SAMPLE-C,Connaught Place,2026-10-20T20:10:15.000000+05:30,False
+1,25,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-20T07:20:51.000000+05:30,True
+1,10,DEMO-3-94,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-20T09:11:20.000000+05:30,False
+2,25,DEMO-3-12,1,Market junction,SAMPLE-C,Connaught Place,2026-10-20T12:19:36.000000+05:30,False
+1,15,DEMO-3-47,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-20T08:26:14.000000+05:30,False
+2,30,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-20T08:05:13.000000+05:30,True
+2,15,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-20T18:02:38.000000+05:30,True
+1,20,DEMO-3-35,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-20T15:38:58.000000+05:30,True
+3,15,DEMO-3-67,1,Market junction,SAMPLE-C,Nehru Place,2026-10-20T09:26:21.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-20T11:53:42.000000+05:30,False
+1,22,DEMO-4-83,2,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-20T10:26:03.000000+05:30,False
+2,22,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-20T19:23:34.000000+05:30,False
+1,22,DEMO-4-56,2,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-20T07:15:08.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-20T08:33:12.000000+05:30,False
+1,10,DEMO-4-48,1,Market junction,SAMPLE-D,Connaught Place,2026-10-20T17:44:57.000000+05:30,True
+1,10,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-20T12:11:40.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-20T12:45:49.000000+05:30,False
+2,15,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-20T08:24:04.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-21T20:58:13.000000+05:30,False
+1,15,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-21T17:12:53.000000+05:30,False
+1,20,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-21T09:32:56.000000+05:30,False
+2,10,,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-21T18:19:56.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-21T10:06:38.000000+05:30,True
+1,30,DEMO-1-46,2,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-21T09:22:43.000000+05:30,True
+2,20,,1,Market junction,SAMPLE-A,Central interchange,2026-10-21T07:52:12.000000+05:30,False
+3,30,DEMO-1-14,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-21T13:18:43.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-B,Market junction,2026-10-21T15:43:15.000000+05:30,True
+1,25,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-21T12:54:52.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-21T09:37:36.000000+05:30,True
+4,10,DEMO-2-52,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-21T12:31:25.000000+05:30,False
+1,10,DEMO-2-10,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-21T12:54:55.000000+05:30,False
+1,25,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-21T11:58:09.000000+05:30,False
+1,20,DEMO-2-45,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-21T09:25:58.000000+05:30,True
+1,25,DEMO-2-27,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-21T11:19:52.000000+05:30,True
+2,35,,1,Central interchange,SAMPLE-B,Market junction,2026-10-21T07:48:07.000000+05:30,False
+1,30,DEMO-3-93,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-21T19:06:54.000000+05:30,True
+3,20,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-21T21:39:25.000000+05:30,True
+2,22,DEMO-3-95,2,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-21T14:18:21.000000+05:30,False
+1,10,DEMO-3-58,2,Nehru Place,SAMPLE-C,Market junction,2026-10-21T15:34:29.000000+05:30,True
+2,30,DEMO-3-35,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-21T21:52:35.000000+05:30,False
+2,30,DEMO-3-88,1,Nehru Place,SAMPLE-C,Market junction,2026-10-21T18:00:33.000000+05:30,True
+1,35,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-21T19:25:56.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-21T18:13:42.000000+05:30,True
+1,35,DEMO-3-40,1,Market junction,SAMPLE-C,Nehru Place,2026-10-21T19:01:11.000000+05:30,False
+1,25,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-21T19:17:08.000000+05:30,True
+1,30,DEMO-3-96,2,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-21T08:29:40.000000+05:30,False
+1,30,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-21T21:18:43.000000+05:30,True
+2,20,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-21T08:24:40.000000+05:30,False
+1,20,DEMO-3-26,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-21T19:15:16.000000+05:30,True
+1,22,DEMO-4-40,2,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-21T09:47:54.000000+05:30,False
+2,25,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-21T07:40:58.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-21T19:14:46.000000+05:30,True
+2,30,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-21T15:41:10.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-21T11:26:26.000000+05:30,True
+2,30,,1,Central interchange,SAMPLE-D,Market junction,2026-10-21T10:11:27.000000+05:30,False
+4,30,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-21T09:32:48.000000+05:30,False
+2,25,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-21T08:58:21.000000+05:30,True
+3,10,,2,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-21T17:15:36.000000+05:30,True
+1,25,DEMO-4-78,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-21T10:27:09.000000+05:30,True
+2,15,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-21T08:23:32.000000+05:30,False
+1,35,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-22T11:52:16.000000+05:30,False
+1,15,,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-22T17:26:45.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-22T17:45:54.000000+05:30,True
+1,25,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-22T18:48:58.000000+05:30,True
+1,15,DEMO-1-28,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-22T21:14:55.000000+05:30,True
+1,25,DEMO-1-63,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-22T15:50:57.000000+05:30,False
+3,20,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-22T19:36:47.000000+05:30,True
+2,22,,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-22T08:49:44.000000+05:30,True
+2,35,DEMO-1-92,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-22T19:34:41.000000+05:30,True
+1,22,DEMO-1-87,2,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-22T14:52:47.000000+05:30,True
+1,10,,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-22T17:54:13.000000+05:30,True
+1,25,,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-22T12:24:07.000000+05:30,True
+2,35,,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-22T09:12:37.000000+05:30,False
+1,10,DEMO-2-40,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-22T09:18:21.000000+05:30,False
+2,10,,2,Connaught Place,SAMPLE-B,Market junction,2026-10-22T11:45:35.000000+05:30,True
+1,35,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-22T17:09:36.000000+05:30,True
+1,22,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-22T09:12:23.000000+05:30,False
+4,10,DEMO-2-25,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-22T18:56:46.000000+05:30,True
+1,30,DEMO-2-44,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-22T07:43:31.000000+05:30,False
+1,15,DEMO-2-51,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-22T18:33:35.000000+05:30,False
+1,15,DEMO-2-80,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-22T12:22:45.000000+05:30,True
+1,22,DEMO-2-36,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-22T09:00:31.000000+05:30,True
+2,15,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-22T18:01:15.000000+05:30,False
+2,30,DEMO-3-97,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-22T17:50:28.000000+05:30,False
+2,20,DEMO-3-34,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-22T09:04:43.000000+05:30,True
+1,20,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-22T14:26:44.000000+05:30,False
+1,10,DEMO-3-86,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-22T09:48:09.000000+05:30,False
+1,35,DEMO-3-13,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-22T12:33:55.000000+05:30,True
+2,35,DEMO-3-92,1,Market junction,SAMPLE-C,Nehru Place,2026-10-22T17:09:51.000000+05:30,True
+1,10,,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-22T17:59:59.000000+05:30,False
+1,15,,2,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-22T11:33:36.000000+05:30,False
+1,35,DEMO-3-42,2,Nehru Place,SAMPLE-C,Connaught Place,2026-10-22T12:20:04.000000+05:30,False
+3,15,,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-22T09:08:51.000000+05:30,False
+2,20,DEMO-3-55,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-22T13:40:00.000000+05:30,True
+1,10,,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-22T07:11:46.000000+05:30,False
+1,20,DEMO-3-93,2,Market junction,SAMPLE-C,Nehru Place,2026-10-22T08:24:47.000000+05:30,False
+1,10,DEMO-3-88,1,Central interchange,SAMPLE-C,Connaught Place,2026-10-22T19:10:44.000000+05:30,False
+3,15,DEMO-4-98,2,Central interchange,SAMPLE-D,Market junction,2026-10-22T18:43:49.000000+05:30,False
+3,22,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-22T08:01:40.000000+05:30,False
+2,30,,2,Connaught Place,SAMPLE-D,Market junction,2026-10-22T17:51:04.000000+05:30,True
+1,15,DEMO-4-76,2,Market junction,SAMPLE-D,Nehru Place,2026-10-22T11:53:09.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-22T17:45:28.000000+05:30,False
+1,10,DEMO-4-60,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-22T09:18:30.000000+05:30,True
+1,25,DEMO-4-90,1,Market junction,SAMPLE-D,Connaught Place,2026-10-22T09:43:15.000000+05:30,False
+2,25,DEMO-4-54,2,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-22T18:10:05.000000+05:30,True
+1,22,DEMO-4-69,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-22T08:16:26.000000+05:30,True
+2,15,DEMO-4-64,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-22T09:54:56.000000+05:30,True
+1,15,,2,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-22T08:35:21.000000+05:30,True
+2,25,DEMO-4-89,1,Central interchange,SAMPLE-D,Market junction,2026-10-22T17:22:34.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-22T17:04:31.000000+05:30,True
+1,22,DEMO-4-12,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-22T21:10:34.000000+05:30,False
+1,22,DEMO-4-29,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-22T08:58:57.000000+05:30,False
+2,15,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-22T19:02:13.000000+05:30,False
+2,10,DEMO-1-10,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-23T19:05:48.000000+05:30,False
+2,25,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-23T10:36:17.000000+05:30,True
+1,20,,1,Market junction,SAMPLE-A,Central interchange,2026-10-23T11:24:33.000000+05:30,True
+1,20,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-23T15:57:04.000000+05:30,True
+3,20,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-23T09:39:13.000000+05:30,False
+2,20,,2,Central interchange,SAMPLE-A,Nehru Place,2026-10-23T07:19:39.000000+05:30,True
+3,15,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-23T20:29:51.000000+05:30,False
+1,30,DEMO-1-20,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-23T18:45:58.000000+05:30,True
+2,35,DEMO-1-71,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-23T21:14:44.000000+05:30,False
+1,15,DEMO-1-89,2,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-23T11:39:18.000000+05:30,False
+3,30,DEMO-1-63,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-23T19:35:09.000000+05:30,False
+1,25,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-23T18:03:04.000000+05:30,True
+2,20,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-23T13:50:52.000000+05:30,False
+2,10,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-23T15:18:48.000000+05:30,False
+3,30,DEMO-2-89,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-23T12:44:02.000000+05:30,True
+3,20,DEMO-2-14,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-23T07:35:53.000000+05:30,True
+2,35,DEMO-2-63,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-23T17:54:05.000000+05:30,True
+2,10,DEMO-2-59,1,Central interchange,SAMPLE-B,Nehru Place,2026-10-23T14:56:51.000000+05:30,False
+2,30,DEMO-2-44,1,Market junction,SAMPLE-B,Nehru Place,2026-10-23T09:00:37.000000+05:30,True
+1,30,,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-23T18:52:21.000000+05:30,False
+1,30,DEMO-2-85,2,Market junction,SAMPLE-B,Nehru Place,2026-10-23T08:16:00.000000+05:30,True
+1,30,DEMO-2-88,2,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-23T18:21:40.000000+05:30,False
+2,30,DEMO-2-64,1,Nehru Place,SAMPLE-B,Market junction,2026-10-23T09:21:30.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-23T17:09:51.000000+05:30,False
+1,22,DEMO-3-98,2,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-23T15:33:18.000000+05:30,False
+2,22,,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-23T15:19:50.000000+05:30,True
+2,10,DEMO-3-88,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-23T19:30:52.000000+05:30,True
+1,15,DEMO-3-87,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-23T18:24:08.000000+05:30,True
+3,20,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-23T18:15:09.000000+05:30,True
+1,10,DEMO-3-54,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-23T07:48:52.000000+05:30,False
+2,15,DEMO-3-74,2,Central interchange,SAMPLE-C,Market junction,2026-10-23T08:33:10.000000+05:30,True
+3,25,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-23T09:35:43.000000+05:30,False
+3,30,DEMO-3-77,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-23T12:46:55.000000+05:30,True
+1,35,,2,Nehru Place,SAMPLE-C,Connaught Place,2026-10-23T08:29:34.000000+05:30,False
+2,20,DEMO-3-73,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-23T15:49:46.000000+05:30,True
+1,20,,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-23T15:03:36.000000+05:30,True
+1,25,,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-23T18:23:35.000000+05:30,True
+1,30,DEMO-4-72,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-23T19:00:02.000000+05:30,True
+4,15,DEMO-4-35,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-23T15:25:21.000000+05:30,False
+1,15,DEMO-4-33,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-23T18:08:00.000000+05:30,True
+1,20,,1,Central interchange,SAMPLE-D,Market junction,2026-10-23T15:29:26.000000+05:30,False
+3,10,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-23T09:59:22.000000+05:30,False
+1,10,DEMO-4-60,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-23T15:11:51.000000+05:30,False
+1,20,DEMO-4-85,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-23T11:14:45.000000+05:30,False
+1,22,DEMO-4-48,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-23T12:23:04.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-23T19:36:47.000000+05:30,False
+1,30,,2,Nehru Place,SAMPLE-D,Connaught Place,2026-10-23T18:27:54.000000+05:30,True
+1,22,DEMO-4-53,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-23T21:22:46.000000+05:30,False
+1,15,DEMO-4-94,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-23T08:01:29.000000+05:30,True
+1,35,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-23T19:33:34.000000+05:30,True
+1,20,,2,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-24T08:51:23.000000+05:30,True
+1,25,DEMO-1-15,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-24T21:21:56.000000+05:30,False
+1,22,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-24T07:05:28.000000+05:30,True
+2,25,,2,Market junction,SAMPLE-A,Central interchange,2026-10-24T21:06:02.000000+05:30,True
+1,15,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-24T08:39:54.000000+05:30,True
+2,35,DEMO-1-10,2,Market junction,SAMPLE-A,Central interchange,2026-10-24T08:52:25.000000+05:30,False
+1,25,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-24T07:51:51.000000+05:30,False
+2,15,,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-24T07:50:45.000000+05:30,False
+2,15,DEMO-1-18,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-24T11:11:49.000000+05:30,True
+1,10,DEMO-1-38,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-24T18:46:05.000000+05:30,False
+1,22,DEMO-1-98,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-24T12:10:43.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-24T07:13:03.000000+05:30,True
+2,22,DEMO-2-91,2,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-24T20:55:26.000000+05:30,False
+1,25,,2,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-24T07:25:18.000000+05:30,False
+1,10,DEMO-2-29,2,Connaught Place,SAMPLE-B,Market junction,2026-10-24T17:31:16.000000+05:30,True
+2,20,DEMO-2-16,1,Market junction,SAMPLE-B,Nehru Place,2026-10-24T11:02:17.000000+05:30,False
+1,10,DEMO-2-75,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-24T21:01:46.000000+05:30,True
+2,30,DEMO-2-23,1,Market junction,SAMPLE-B,Central interchange,2026-10-24T08:11:08.000000+05:30,False
+1,35,,1,Central interchange,SAMPLE-B,Market junction,2026-10-24T09:18:01.000000+05:30,False
+1,25,,2,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-24T08:15:54.000000+05:30,True
+2,15,DEMO-2-76,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-24T21:52:47.000000+05:30,True
+2,22,DEMO-2-66,2,Central interchange,SAMPLE-B,Nehru Place,2026-10-24T08:57:36.000000+05:30,False
+1,35,,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-24T15:01:22.000000+05:30,True
+2,15,,2,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-24T21:59:57.000000+05:30,False
+1,20,DEMO-3-74,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-24T15:21:24.000000+05:30,False
+1,30,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-24T09:18:10.000000+05:30,False
+1,10,DEMO-3-91,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-24T18:44:00.000000+05:30,True
+3,25,DEMO-3-14,1,Market junction,SAMPLE-C,Connaught Place,2026-10-24T14:24:24.000000+05:30,True
+1,30,DEMO-3-71,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-24T20:18:38.000000+05:30,True
+3,35,,2,Market junction,SAMPLE-C,Nehru Place,2026-10-24T19:39:59.000000+05:30,True
+1,15,DEMO-3-46,1,Market junction,SAMPLE-C,Connaught Place,2026-10-24T11:01:35.000000+05:30,True
+1,25,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-24T20:17:30.000000+05:30,True
+1,10,,2,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-24T09:27:28.000000+05:30,False
+1,10,DEMO-3-53,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-24T21:23:38.000000+05:30,True
+2,10,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-24T09:17:47.000000+05:30,False
+1,22,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-24T11:10:24.000000+05:30,False
+1,15,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-24T18:36:56.000000+05:30,False
+2,30,DEMO-3-44,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-24T18:03:09.000000+05:30,False
+2,25,,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-24T14:11:48.000000+05:30,False
+1,35,DEMO-3-49,2,Market junction,SAMPLE-C,Nehru Place,2026-10-24T18:27:44.000000+05:30,False
+1,15,DEMO-3-50,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-24T08:45:26.000000+05:30,True
+1,30,DEMO-3-62,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-24T09:57:39.000000+05:30,True
+1,10,DEMO-4-87,2,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-24T17:47:53.000000+05:30,False
+1,20,DEMO-4-12,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-24T19:54:53.000000+05:30,False
+3,30,DEMO-4-63,2,Market junction,SAMPLE-D,Nehru Place,2026-10-24T13:40:55.000000+05:30,True
+3,30,DEMO-4-96,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-24T17:25:32.000000+05:30,True
+1,30,DEMO-4-62,1,Market junction,SAMPLE-D,Connaught Place,2026-10-24T08:11:21.000000+05:30,False
+1,15,DEMO-4-30,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-24T12:44:54.000000+05:30,False
+2,20,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-24T21:05:53.000000+05:30,True
+2,20,DEMO-4-91,1,Central interchange,SAMPLE-D,Market junction,2026-10-24T14:30:12.000000+05:30,False
+2,10,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-24T09:18:45.000000+05:30,True
+1,22,DEMO-4-58,2,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-24T18:33:48.000000+05:30,True
+3,15,DEMO-4-76,1,Central interchange,SAMPLE-D,Market junction,2026-10-24T18:40:36.000000+05:30,False
+1,20,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-24T10:52:31.000000+05:30,True
+2,15,DEMO-4-52,2,Central interchange,SAMPLE-D,Nehru Place,2026-10-24T07:01:47.000000+05:30,True
+2,35,DEMO-4-49,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-24T09:06:28.000000+05:30,True
+3,15,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T21:03:30.000000+05:30,False
+1,30,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T11:59:58.000000+05:30,True
+2,15,DEMO-1-66,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T20:42:09.000000+05:30,False
+3,35,DEMO-1-71,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T10:27:13.000000+05:30,False
+1,20,,2,Market junction,SAMPLE-A,Central interchange,2026-10-25T17:13:35.000000+05:30,False
+2,15,DEMO-1-70,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T13:36:01.000000+05:30,True
+2,15,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-25T07:28:10.000000+05:30,True
+1,30,,2,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T11:30:20.000000+05:30,False
+3,30,DEMO-1-22,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-25T17:15:26.000000+05:30,False
+1,25,,2,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-25T14:25:21.000000+05:30,False
+1,30,DEMO-1-11,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T13:21:22.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-25T21:51:34.000000+05:30,True
+1,25,DEMO-1-34,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-25T17:48:53.000000+05:30,True
+3,30,DEMO-1-63,1,Market junction,SAMPLE-A,Central interchange,2026-10-25T14:12:35.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-25T09:16:17.000000+05:30,False
+2,22,DEMO-2-76,2,Central interchange,SAMPLE-B,Market junction,2026-10-25T11:40:34.000000+05:30,True
+1,22,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-25T08:18:23.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-25T17:50:24.000000+05:30,False
+2,20,DEMO-2-31,1,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-25T13:20:29.000000+05:30,True
+1,20,DEMO-2-47,1,Central interchange,SAMPLE-B,Market junction,2026-10-25T11:58:40.000000+05:30,False
+1,30,,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-25T15:26:11.000000+05:30,True
+1,10,DEMO-2-29,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-25T10:51:05.000000+05:30,False
+1,20,DEMO-2-88,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-25T07:32:41.000000+05:30,False
+1,25,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-25T19:45:39.000000+05:30,False
+1,22,DEMO-3-24,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-25T21:52:39.000000+05:30,False
+1,22,DEMO-3-62,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-25T07:00:46.000000+05:30,True
+1,10,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-25T12:52:38.000000+05:30,False
+1,10,DEMO-3-93,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-25T18:22:43.000000+05:30,False
+3,25,DEMO-3-31,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-25T17:05:38.000000+05:30,True
+3,15,DEMO-3-65,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-25T08:36:38.000000+05:30,False
+1,22,DEMO-3-46,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-25T09:19:25.000000+05:30,True
+2,10,,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-25T17:52:03.000000+05:30,True
+1,35,DEMO-3-43,1,Market junction,SAMPLE-C,Connaught Place,2026-10-25T08:57:18.000000+05:30,False
+3,25,DEMO-3-44,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-25T10:43:16.000000+05:30,False
+1,22,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-25T10:41:19.000000+05:30,False
+1,20,DEMO-3-43,2,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-25T13:19:59.000000+05:30,True
+1,30,DEMO-3-61,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-25T19:04:45.000000+05:30,False
+1,30,,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-25T12:36:08.000000+05:30,False
+1,15,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-25T07:39:14.000000+05:30,True
+1,25,DEMO-4-49,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-25T14:52:42.000000+05:30,True
+1,15,,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-25T18:40:21.000000+05:30,False
+1,35,DEMO-4-38,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-25T21:32:21.000000+05:30,True
+2,30,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-25T08:18:46.000000+05:30,False
+1,35,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-25T11:42:45.000000+05:30,False
+1,30,,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-25T08:13:40.000000+05:30,True
+1,22,DEMO-4-11,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-25T13:53:09.000000+05:30,True
+2,10,DEMO-4-69,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-25T08:11:26.000000+05:30,True
+1,35,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-25T09:08:32.000000+05:30,True
+2,10,DEMO-1-10,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-26T17:27:07.000000+05:30,False
+2,20,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-26T12:36:42.000000+05:30,True
+2,10,DEMO-1-34,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-26T18:20:44.000000+05:30,False
+1,20,DEMO-1-22,2,Market junction,SAMPLE-A,Nehru Place,2026-10-26T13:59:15.000000+05:30,False
+4,15,DEMO-1-83,2,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-26T09:21:01.000000+05:30,False
+3,20,DEMO-1-44,2,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-26T15:05:42.000000+05:30,True
+1,20,DEMO-1-15,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-26T17:17:41.000000+05:30,False
+1,35,DEMO-1-43,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-26T08:13:36.000000+05:30,False
+3,30,DEMO-1-92,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-26T19:02:27.000000+05:30,True
+4,10,DEMO-1-97,2,Nehru Place,SAMPLE-A,Central interchange,2026-10-26T18:09:53.000000+05:30,False
+3,10,DEMO-1-59,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-26T08:09:42.000000+05:30,True
+1,22,,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-26T15:33:52.000000+05:30,False
+1,15,,1,Market junction,SAMPLE-B,Nehru Place,2026-10-26T09:07:22.000000+05:30,True
+2,30,DEMO-2-81,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-26T08:00:36.000000+05:30,True
+1,22,,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-26T12:50:09.000000+05:30,True
+4,25,,2,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-26T07:21:29.000000+05:30,True
+2,10,DEMO-2-84,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-26T17:23:38.000000+05:30,False
+1,15,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-26T12:23:43.000000+05:30,True
+1,35,,1,Connaught Place,SAMPLE-B,Central interchange,2026-10-26T14:44:58.000000+05:30,True
+1,22,DEMO-2-49,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-26T08:36:36.000000+05:30,True
+2,10,DEMO-2-86,1,Central interchange,SAMPLE-B,Market junction,2026-10-26T19:07:48.000000+05:30,True
+1,10,,2,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-26T15:21:04.000000+05:30,False
+2,15,DEMO-2-70,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-26T15:30:27.000000+05:30,False
+2,35,DEMO-2-62,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-26T09:23:17.000000+05:30,False
+1,15,DEMO-2-40,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-26T18:54:23.000000+05:30,True
+1,35,DEMO-3-57,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-26T12:47:50.000000+05:30,True
+1,15,,2,Market junction,SAMPLE-C,Nehru Place,2026-10-26T15:49:01.000000+05:30,False
+3,20,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-26T10:54:17.000000+05:30,False
+1,20,,2,Connaught Place,SAMPLE-C,Nehru Place,2026-10-26T18:46:24.000000+05:30,True
+2,30,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-26T19:19:58.000000+05:30,False
+3,22,DEMO-3-75,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-26T07:57:17.000000+05:30,False
+1,10,DEMO-3-63,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-26T17:16:38.000000+05:30,False
+2,20,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-26T11:33:15.000000+05:30,True
+1,22,,2,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-26T21:15:04.000000+05:30,False
+1,30,DEMO-3-26,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-26T19:18:45.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-26T17:52:48.000000+05:30,True
+2,35,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-26T12:13:03.000000+05:30,False
+3,10,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-26T09:49:59.000000+05:30,True
+1,15,DEMO-3-17,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-26T20:27:23.000000+05:30,False
+2,20,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T09:57:53.000000+05:30,False
+2,30,DEMO-4-69,1,Market junction,SAMPLE-D,Connaught Place,2026-10-26T19:38:31.000000+05:30,False
+2,15,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T15:25:58.000000+05:30,False
+4,15,DEMO-4-10,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T11:24:04.000000+05:30,True
+1,22,DEMO-4-17,1,Market junction,SAMPLE-D,Nehru Place,2026-10-26T07:29:48.000000+05:30,True
+3,35,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-26T15:29:44.000000+05:30,True
+1,30,DEMO-4-37,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T07:03:38.000000+05:30,False
+2,15,,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T12:08:29.000000+05:30,True
+2,20,DEMO-4-90,1,Nehru Place,SAMPLE-D,Market junction,2026-10-26T12:20:02.000000+05:30,True
+1,15,DEMO-4-50,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-26T18:20:43.000000+05:30,True
+1,20,,2,Nehru Place,SAMPLE-D,Market junction,2026-10-26T09:54:43.000000+05:30,False
+2,15,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-26T19:26:21.000000+05:30,True
+3,30,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-26T07:31:32.000000+05:30,False
+1,15,,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T17:55:32.000000+05:30,True
+1,35,,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-26T15:30:40.000000+05:30,True
+2,15,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-26T08:23:32.000000+05:30,True
+3,30,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T17:51:17.000000+05:30,False
+1,20,DEMO-4-72,2,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-26T17:28:09.000000+05:30,True
+1,10,DEMO-1-55,2,Nehru Place,SAMPLE-A,Central interchange,2026-10-27T20:05:59.000000+05:30,True
+1,30,DEMO-1-56,2,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-27T12:42:21.000000+05:30,False
+1,22,DEMO-1-86,1,Connaught Place,SAMPLE-A,Lajpat Nagar,2026-10-27T15:00:22.000000+05:30,False
+3,15,DEMO-1-42,2,Market junction,SAMPLE-A,Central interchange,2026-10-27T15:21:28.000000+05:30,False
+1,15,DEMO-1-87,2,Market junction,SAMPLE-A,Nehru Place,2026-10-27T10:55:32.000000+05:30,False
+2,10,,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-27T19:57:39.000000+05:30,True
+2,10,,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-27T19:02:31.000000+05:30,True
+1,20,DEMO-1-57,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-27T17:58:40.000000+05:30,True
+1,25,,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-27T09:55:52.000000+05:30,True
+1,25,DEMO-1-28,2,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-27T07:05:20.000000+05:30,True
+4,35,DEMO-2-44,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-27T12:18:55.000000+05:30,False
+4,22,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-27T19:21:31.000000+05:30,True
+2,20,DEMO-2-47,2,Nehru Place,SAMPLE-B,Central interchange,2026-10-27T09:00:58.000000+05:30,True
+2,20,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-27T21:46:46.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-27T07:13:00.000000+05:30,False
+1,35,DEMO-2-37,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-27T17:01:29.000000+05:30,True
+1,35,,2,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-27T11:26:32.000000+05:30,True
+2,35,DEMO-2-80,1,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-27T07:17:44.000000+05:30,True
+1,20,,2,Central interchange,SAMPLE-B,Market junction,2026-10-27T15:39:46.000000+05:30,False
+2,25,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-27T08:35:17.000000+05:30,True
+2,30,DEMO-2-92,1,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-27T14:48:49.000000+05:30,False
+2,10,,1,Connaught Place,SAMPLE-B,Market junction,2026-10-27T07:35:33.000000+05:30,False
+1,15,DEMO-2-27,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-27T10:53:39.000000+05:30,True
+2,25,DEMO-2-32,2,Kashmere Gate ISBT,SAMPLE-B,Lajpat Nagar,2026-10-27T07:13:35.000000+05:30,True
+1,22,,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-27T09:17:08.000000+05:30,False
+2,30,DEMO-2-48,1,Market junction,SAMPLE-B,Nehru Place,2026-10-27T18:30:16.000000+05:30,True
+2,25,DEMO-2-17,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-27T19:49:09.000000+05:30,True
+2,20,DEMO-2-77,1,Market junction,SAMPLE-B,Nehru Place,2026-10-27T09:58:53.000000+05:30,True
+1,15,DEMO-3-61,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-27T14:59:26.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-27T18:41:29.000000+05:30,False
+3,30,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-27T08:07:28.000000+05:30,True
+2,35,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-27T07:28:05.000000+05:30,False
+1,35,DEMO-3-11,2,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-27T07:35:28.000000+05:30,True
+2,10,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-27T19:54:29.000000+05:30,True
+1,10,DEMO-3-77,1,Connaught Place,SAMPLE-C,Market junction,2026-10-27T15:06:52.000000+05:30,True
+1,20,DEMO-3-84,2,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-27T10:47:48.000000+05:30,False
+1,15,DEMO-3-33,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-27T18:47:08.000000+05:30,True
+1,10,DEMO-3-49,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-27T19:04:40.000000+05:30,False
+1,20,DEMO-3-84,1,Central interchange,SAMPLE-C,Market junction,2026-10-27T18:30:48.000000+05:30,False
+1,20,DEMO-3-40,1,Market junction,SAMPLE-C,Lajpat Nagar,2026-10-27T08:47:08.000000+05:30,False
+1,15,DEMO-3-21,1,Connaught Place,SAMPLE-C,Market junction,2026-10-27T09:13:14.000000+05:30,True
+1,25,DEMO-4-25,2,Nehru Place,SAMPLE-D,Connaught Place,2026-10-27T09:36:26.000000+05:30,False
+2,22,DEMO-4-14,1,Central interchange,SAMPLE-D,Market junction,2026-10-27T07:57:08.000000+05:30,True
+1,20,DEMO-4-41,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-27T14:05:30.000000+05:30,True
+1,30,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-27T17:56:00.000000+05:30,True
+1,20,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-27T08:25:59.000000+05:30,False
+1,15,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-27T21:29:55.000000+05:30,False
+1,25,DEMO-4-13,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-27T08:29:20.000000+05:30,True
+1,25,,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-27T14:24:24.000000+05:30,True
+3,15,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-27T15:26:25.000000+05:30,False
+1,10,DEMO-4-84,2,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-27T21:01:21.000000+05:30,True
+1,20,,1,Market junction,SAMPLE-D,Connaught Place,2026-10-27T18:05:57.000000+05:30,False
+1,15,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-28T15:52:27.000000+05:30,False
+2,35,DEMO-1-82,1,Connaught Place,SAMPLE-A,Central interchange,2026-10-28T20:12:24.000000+05:30,True
+1,15,DEMO-1-10,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-28T12:54:56.000000+05:30,False
+3,20,DEMO-1-69,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-28T12:22:37.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-28T20:36:12.000000+05:30,False
+1,30,,2,Market junction,SAMPLE-A,Nehru Place,2026-10-28T17:54:19.000000+05:30,True
+3,15,,2,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-28T20:27:18.000000+05:30,False
+3,15,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-28T18:50:00.000000+05:30,False
+1,15,DEMO-1-72,2,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-28T19:10:51.000000+05:30,True
+1,10,,2,Connaught Place,SAMPLE-A,Nehru Place,2026-10-28T14:40:45.000000+05:30,True
+1,30,,1,Nehru Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-28T18:32:14.000000+05:30,False
+2,22,,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-28T14:33:06.000000+05:30,True
+1,35,DEMO-2-88,1,Market junction,SAMPLE-B,Central interchange,2026-10-28T18:36:29.000000+05:30,False
+2,20,,1,Connaught Place,SAMPLE-B,Market junction,2026-10-28T17:02:32.000000+05:30,False
+1,22,DEMO-2-48,1,Central interchange,SAMPLE-B,Market junction,2026-10-28T12:28:32.000000+05:30,True
+1,35,,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-28T12:31:27.000000+05:30,False
+1,15,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-28T09:10:08.000000+05:30,True
+1,35,DEMO-2-63,2,Nehru Place,SAMPLE-B,Lajpat Nagar,2026-10-28T18:40:51.000000+05:30,True
+2,35,,1,Central interchange,SAMPLE-B,Market junction,2026-10-28T08:07:34.000000+05:30,False
+1,30,,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-28T17:00:11.000000+05:30,True
+1,25,DEMO-2-52,1,Market junction,SAMPLE-B,Nehru Place,2026-10-28T07:00:31.000000+05:30,True
+1,20,,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-28T10:26:59.000000+05:30,False
+1,20,,1,Nehru Place,SAMPLE-C,Market junction,2026-10-28T09:45:40.000000+05:30,True
+1,22,DEMO-3-30,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-28T21:01:34.000000+05:30,False
+3,35,DEMO-3-48,1,Market junction,SAMPLE-C,Connaught Place,2026-10-28T12:21:45.000000+05:30,True
+3,20,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-28T10:56:36.000000+05:30,True
+1,15,DEMO-3-19,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-28T17:45:31.000000+05:30,True
+1,30,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-28T17:02:50.000000+05:30,False
+1,10,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-28T17:36:14.000000+05:30,False
+1,35,,1,Connaught Place,SAMPLE-C,Market junction,2026-10-28T08:53:18.000000+05:30,True
+2,30,DEMO-3-22,1,Central interchange,SAMPLE-C,Market junction,2026-10-28T07:26:55.000000+05:30,True
+1,20,,2,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-28T17:01:51.000000+05:30,False
+2,30,DEMO-3-47,2,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-28T15:37:51.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-C,Market junction,2026-10-28T09:44:20.000000+05:30,True
+3,22,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-28T07:59:16.000000+05:30,True
+1,35,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-28T07:53:54.000000+05:30,False
+1,25,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-28T10:17:21.000000+05:30,False
+1,30,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-28T12:01:51.000000+05:30,True
+3,30,DEMO-4-30,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-28T17:26:51.000000+05:30,True
+1,25,,2,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-28T12:25:59.000000+05:30,True
+1,20,DEMO-4-55,2,Connaught Place,SAMPLE-D,Market junction,2026-10-28T11:58:24.000000+05:30,False
+2,20,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-28T07:32:18.000000+05:30,True
+3,25,DEMO-4-94,2,Central interchange,SAMPLE-D,Market junction,2026-10-28T09:49:25.000000+05:30,True
+1,35,,1,Market junction,SAMPLE-D,Nehru Place,2026-10-28T10:35:56.000000+05:30,False
+1,15,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-28T08:54:40.000000+05:30,False
+1,25,DEMO-4-81,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-28T17:59:10.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-28T07:24:01.000000+05:30,True
+1,15,DEMO-4-87,1,Nehru Place,SAMPLE-D,Market junction,2026-10-28T20:13:48.000000+05:30,False
+2,15,DEMO-4-35,1,Central interchange,SAMPLE-D,Kashmere Gate ISBT,2026-10-28T11:55:28.000000+05:30,False
+3,15,DEMO-4-33,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-28T14:43:47.000000+05:30,True
+2,30,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-28T17:19:18.000000+05:30,True
+2,35,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-28T08:01:30.000000+05:30,False
+2,20,,2,Central interchange,SAMPLE-D,Market junction,2026-10-28T12:34:40.000000+05:30,True
+1,20,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-28T18:09:32.000000+05:30,False
+1,30,,1,Connaught Place,SAMPLE-D,Market junction,2026-10-28T13:45:49.000000+05:30,False
+3,35,DEMO-4-95,1,Central interchange,SAMPLE-D,Market junction,2026-10-28T21:36:52.000000+05:30,True
+2,25,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-29T07:25:08.000000+05:30,True
+1,15,,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-29T19:22:01.000000+05:30,False
+2,20,,2,Market junction,SAMPLE-A,Nehru Place,2026-10-29T17:13:13.000000+05:30,False
+1,15,,1,Market junction,SAMPLE-A,Nehru Place,2026-10-29T08:24:00.000000+05:30,True
+1,10,DEMO-1-91,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-29T17:54:13.000000+05:30,True
+1,20,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-29T19:48:05.000000+05:30,True
+1,35,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-29T08:43:02.000000+05:30,True
+2,15,,2,Nehru Place,SAMPLE-A,Central interchange,2026-10-29T08:49:41.000000+05:30,True
+1,30,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-29T09:57:03.000000+05:30,True
+1,30,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-29T19:57:17.000000+05:30,True
+2,35,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-29T07:40:25.000000+05:30,False
+1,30,DEMO-1-57,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-29T18:54:39.000000+05:30,False
+2,30,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-29T18:12:42.000000+05:30,False
+4,15,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-29T14:42:32.000000+05:30,False
+1,10,,2,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-29T07:37:07.000000+05:30,False
+1,20,DEMO-2-46,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-29T07:50:15.000000+05:30,True
+1,22,,1,Connaught Place,SAMPLE-B,Market junction,2026-10-29T12:05:30.000000+05:30,False
+1,10,,1,Nehru Place,SAMPLE-B,Market junction,2026-10-29T08:45:46.000000+05:30,True
+3,30,DEMO-2-71,1,Nehru Place,SAMPLE-B,Market junction,2026-10-29T09:14:36.000000+05:30,True
+1,30,DEMO-2-52,1,Market junction,SAMPLE-B,Nehru Place,2026-10-29T18:15:53.000000+05:30,True
+1,35,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-29T13:45:37.000000+05:30,True
+1,10,,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-29T08:18:19.000000+05:30,False
+1,30,DEMO-2-77,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-29T13:17:29.000000+05:30,False
+2,30,DEMO-2-11,1,Market junction,SAMPLE-B,Nehru Place,2026-10-29T21:52:13.000000+05:30,True
+1,10,,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-29T10:20:30.000000+05:30,False
+3,10,,1,Lajpat Nagar,SAMPLE-B,Central interchange,2026-10-29T08:09:34.000000+05:30,True
+1,25,DEMO-2-80,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-29T07:49:44.000000+05:30,True
+2,15,,1,Market junction,SAMPLE-B,Central interchange,2026-10-29T12:47:00.000000+05:30,False
+1,25,DEMO-2-78,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-29T07:47:22.000000+05:30,True
+2,15,DEMO-2-97,2,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-29T10:53:14.000000+05:30,False
+1,30,DEMO-3-46,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-29T08:51:25.000000+05:30,True
+1,15,,2,Connaught Place,SAMPLE-C,Market junction,2026-10-29T19:28:55.000000+05:30,False
+3,10,DEMO-3-89,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-29T08:58:40.000000+05:30,False
+1,10,DEMO-3-82,2,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-29T09:08:10.000000+05:30,True
+3,35,,2,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-29T17:32:55.000000+05:30,False
+1,20,DEMO-3-87,1,Central interchange,SAMPLE-C,Market junction,2026-10-29T13:44:29.000000+05:30,False
+4,10,,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-29T13:08:21.000000+05:30,False
+2,10,,1,Market junction,SAMPLE-C,Connaught Place,2026-10-29T07:00:45.000000+05:30,False
+3,35,DEMO-3-90,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-29T08:59:50.000000+05:30,True
+2,30,,2,Nehru Place,SAMPLE-C,Market junction,2026-10-29T09:35:17.000000+05:30,True
+2,22,,1,Lajpat Nagar,SAMPLE-C,Market junction,2026-10-29T10:28:46.000000+05:30,True
+2,25,,1,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-29T11:05:24.000000+05:30,True
+2,35,DEMO-3-54,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-29T17:00:17.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-29T18:18:30.000000+05:30,False
+1,20,,2,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-29T14:47:28.000000+05:30,True
+2,25,,2,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-29T11:06:26.000000+05:30,False
+1,22,DEMO-4-30,2,Connaught Place,SAMPLE-D,Market junction,2026-10-29T10:58:52.000000+05:30,True
+3,10,DEMO-4-79,2,Central interchange,SAMPLE-D,Market junction,2026-10-29T12:18:11.000000+05:30,True
+1,15,,1,Lajpat Nagar,SAMPLE-D,Nehru Place,2026-10-29T13:26:42.000000+05:30,False
+3,35,DEMO-4-29,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-29T14:14:08.000000+05:30,False
+1,22,,2,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-29T08:26:51.000000+05:30,True
+2,25,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-29T19:36:38.000000+05:30,True
+4,20,DEMO-4-83,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-29T11:11:43.000000+05:30,True
+1,30,,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-29T17:29:39.000000+05:30,False
+1,10,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-29T17:56:30.000000+05:30,False
+1,22,,1,Connaught Place,SAMPLE-D,Nehru Place,2026-10-29T08:26:33.000000+05:30,True
+1,15,,1,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-29T14:14:18.000000+05:30,False
+2,15,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-29T11:43:40.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-D,Kashmere Gate ISBT,2026-10-29T17:48:51.000000+05:30,True
+1,25,,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-29T09:58:38.000000+05:30,False
+1,35,DEMO-4-74,2,Kashmere Gate ISBT,SAMPLE-D,Market junction,2026-10-29T18:59:13.000000+05:30,True
+1,30,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-30T19:35:58.000000+05:30,False
+1,15,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-30T09:29:34.000000+05:30,True
+2,25,DEMO-1-69,2,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-30T15:49:40.000000+05:30,True
+1,10,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-30T18:03:24.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-30T21:44:15.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-30T17:36:16.000000+05:30,False
+2,30,DEMO-1-68,1,Lajpat Nagar,SAMPLE-A,Kashmere Gate ISBT,2026-10-30T14:34:03.000000+05:30,False
+1,25,,2,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-30T20:57:18.000000+05:30,True
+2,22,,1,Kashmere Gate ISBT,SAMPLE-A,Central interchange,2026-10-30T18:13:43.000000+05:30,True
+1,30,,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-30T11:01:43.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-30T13:37:19.000000+05:30,False
+1,22,,1,Lajpat Nagar,SAMPLE-A,Nehru Place,2026-10-30T15:39:36.000000+05:30,True
+1,35,DEMO-1-30,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-30T18:23:23.000000+05:30,True
+1,25,DEMO-1-37,1,Market junction,SAMPLE-A,Nehru Place,2026-10-30T09:44:35.000000+05:30,True
+1,10,,2,Connaught Place,SAMPLE-A,Central interchange,2026-10-30T18:55:47.000000+05:30,True
+3,20,DEMO-1-98,1,Central interchange,SAMPLE-A,Lajpat Nagar,2026-10-30T17:58:43.000000+05:30,False
+2,25,,1,Central interchange,SAMPLE-A,Nehru Place,2026-10-30T19:04:15.000000+05:30,False
+2,10,DEMO-1-86,1,Market junction,SAMPLE-A,Central interchange,2026-10-30T08:36:34.000000+05:30,True
+1,30,DEMO-2-34,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-30T17:25:45.000000+05:30,False
+1,30,,2,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-30T09:48:06.000000+05:30,True
+1,20,DEMO-2-73,1,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-30T10:07:56.000000+05:30,False
+1,15,DEMO-2-66,1,Connaught Place,SAMPLE-B,Nehru Place,2026-10-30T14:57:32.000000+05:30,True
+4,15,DEMO-2-54,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-30T11:27:03.000000+05:30,False
+3,20,,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-30T15:55:30.000000+05:30,True
+2,22,DEMO-2-47,1,Market junction,SAMPLE-B,Central interchange,2026-10-30T09:30:22.000000+05:30,True
+1,22,,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-30T19:28:21.000000+05:30,True
+3,22,DEMO-2-98,1,Kashmere Gate ISBT,SAMPLE-B,Central interchange,2026-10-30T10:10:46.000000+05:30,True
+1,20,DEMO-2-76,1,Kashmere Gate ISBT,SAMPLE-B,Market junction,2026-10-30T19:54:54.000000+05:30,False
+2,30,DEMO-3-32,1,Central interchange,SAMPLE-C,Lajpat Nagar,2026-10-30T18:28:17.000000+05:30,True
+1,35,,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-30T09:43:53.000000+05:30,True
+3,25,DEMO-3-52,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-30T21:22:32.000000+05:30,True
+1,35,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-30T20:24:41.000000+05:30,True
+2,25,DEMO-3-94,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-30T10:46:59.000000+05:30,True
+2,35,DEMO-3-93,2,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-30T14:56:05.000000+05:30,True
+1,20,DEMO-3-20,2,Central interchange,SAMPLE-C,Connaught Place,2026-10-30T12:45:22.000000+05:30,True
+2,15,,1,Lajpat Nagar,SAMPLE-C,Connaught Place,2026-10-30T09:23:22.000000+05:30,True
+1,10,,1,Kashmere Gate ISBT,SAMPLE-C,Nehru Place,2026-10-30T08:14:01.000000+05:30,True
+2,35,,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-30T07:25:10.000000+05:30,False
+1,20,DEMO-3-15,1,Connaught Place,SAMPLE-C,Nehru Place,2026-10-30T17:14:45.000000+05:30,True
+1,30,,1,Kashmere Gate ISBT,SAMPLE-C,Market junction,2026-10-30T18:14:59.000000+05:30,True
+1,22,,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-30T18:19:46.000000+05:30,True
+3,20,DEMO-3-17,1,Central interchange,SAMPLE-C,Nehru Place,2026-10-30T19:59:24.000000+05:30,True
+1,22,DEMO-3-70,2,Central interchange,SAMPLE-C,Nehru Place,2026-10-30T09:36:27.000000+05:30,True
+1,20,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-30T08:37:07.000000+05:30,True
+1,10,DEMO-4-17,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-30T11:56:44.000000+05:30,True
+2,25,,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-30T09:25:53.000000+05:30,True
+2,10,DEMO-4-30,2,Connaught Place,SAMPLE-D,Nehru Place,2026-10-30T18:54:07.000000+05:30,True
+2,20,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-30T09:42:05.000000+05:30,False
+1,15,,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-30T09:12:34.000000+05:30,False
+2,15,,1,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-30T20:47:26.000000+05:30,True
+3,25,,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-30T18:47:24.000000+05:30,True
+1,22,,2,Market junction,SAMPLE-D,Kashmere Gate ISBT,2026-10-30T15:37:36.000000+05:30,True
+2,35,,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-30T12:59:50.000000+05:30,True
+1,10,,1,Nehru Place,SAMPLE-D,Market junction,2026-10-30T08:23:00.000000+05:30,True
+1,35,DEMO-4-40,1,Central interchange,SAMPLE-D,Market junction,2026-10-30T14:23:51.000000+05:30,False
+1,30,DEMO-4-87,1,Lajpat Nagar,SAMPLE-D,Connaught Place,2026-10-30T13:40:13.000000+05:30,False
+1,10,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-30T21:07:34.000000+05:30,False
+2,30,DEMO-4-30,1,Market junction,SAMPLE-D,Nehru Place,2026-10-30T17:28:56.000000+05:30,True
+2,22,DEMO-1-73,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-31T08:17:40.000000+05:30,True
+3,35,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-31T10:16:43.000000+05:30,True
+2,22,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-31T09:49:21.000000+05:30,True
+1,22,,1,Market junction,SAMPLE-A,Kashmere Gate ISBT,2026-10-31T19:56:21.000000+05:30,True
+1,35,DEMO-1-39,1,Central interchange,SAMPLE-A,Kashmere Gate ISBT,2026-10-31T18:21:14.000000+05:30,False
+1,20,,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-31T14:18:35.000000+05:30,False
+1,35,,2,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-31T15:19:44.000000+05:30,False
+1,25,DEMO-1-92,1,Connaught Place,SAMPLE-A,Kashmere Gate ISBT,2026-10-31T08:18:25.000000+05:30,False
+2,15,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-31T08:39:22.000000+05:30,True
+1,25,,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-31T20:32:25.000000+05:30,False
+1,25,DEMO-1-10,1,Kashmere Gate ISBT,SAMPLE-A,Lajpat Nagar,2026-10-31T12:28:55.000000+05:30,False
+1,25,,1,Nehru Place,SAMPLE-A,Lajpat Nagar,2026-10-31T09:48:10.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-A,Central interchange,2026-10-31T08:22:37.000000+05:30,False
+1,35,DEMO-1-10,1,Market junction,SAMPLE-A,Lajpat Nagar,2026-10-31T19:33:34.000000+05:30,True
+3,22,,1,Kashmere Gate ISBT,SAMPLE-A,Nehru Place,2026-10-31T11:27:04.000000+05:30,False
+2,20,,1,Connaught Place,SAMPLE-A,Nehru Place,2026-10-31T12:18:18.000000+05:30,False
+4,22,,1,Nehru Place,SAMPLE-A,Central interchange,2026-10-31T07:24:24.000000+05:30,False
+1,30,DEMO-2-30,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-31T10:22:07.000000+05:30,True
+1,22,DEMO-2-26,2,Nehru Place,SAMPLE-B,Market junction,2026-10-31T18:24:02.000000+05:30,True
+1,15,,1,Market junction,SAMPLE-B,Lajpat Nagar,2026-10-31T12:54:30.000000+05:30,False
+1,35,DEMO-2-30,1,Connaught Place,SAMPLE-B,Lajpat Nagar,2026-10-31T09:24:46.000000+05:30,True
+1,25,DEMO-2-54,1,Central interchange,SAMPLE-B,Lajpat Nagar,2026-10-31T18:29:57.000000+05:30,False
+3,10,DEMO-2-88,1,Lajpat Nagar,SAMPLE-B,Nehru Place,2026-10-31T19:34:00.000000+05:30,False
+1,10,,1,Market junction,SAMPLE-B,Central interchange,2026-10-31T19:21:29.000000+05:30,True
+2,25,DEMO-2-90,1,Nehru Place,SAMPLE-B,Central interchange,2026-10-31T12:01:15.000000+05:30,False
+1,10,,2,Lajpat Nagar,SAMPLE-B,Market junction,2026-10-31T12:00:41.000000+05:30,True
+1,22,DEMO-2-57,2,Connaught Place,SAMPLE-B,Central interchange,2026-10-31T18:22:19.000000+05:30,True
+1,25,DEMO-2-36,2,Kashmere Gate ISBT,SAMPLE-B,Nehru Place,2026-10-31T08:22:13.000000+05:30,False
+2,22,DEMO-3-43,1,Kashmere Gate ISBT,SAMPLE-C,Connaught Place,2026-10-31T19:25:22.000000+05:30,False
+2,20,,1,Market junction,SAMPLE-C,Nehru Place,2026-10-31T17:13:00.000000+05:30,True
+1,30,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-31T19:22:55.000000+05:30,False
+1,35,,2,Kashmere Gate ISBT,SAMPLE-C,Lajpat Nagar,2026-10-31T20:00:11.000000+05:30,False
+1,22,DEMO-3-40,1,Market junction,SAMPLE-C,Connaught Place,2026-10-31T15:47:36.000000+05:30,True
+1,22,DEMO-3-48,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-31T12:28:36.000000+05:30,True
+1,22,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-31T17:30:11.000000+05:30,True
+1,15,,1,Nehru Place,SAMPLE-C,Lajpat Nagar,2026-10-31T15:00:12.000000+05:30,True
+1,15,,1,Connaught Place,SAMPLE-C,Lajpat Nagar,2026-10-31T09:36:52.000000+05:30,False
+1,22,DEMO-3-80,2,Market junction,SAMPLE-C,Connaught Place,2026-10-31T13:45:06.000000+05:30,False
+1,15,DEMO-3-14,1,Central interchange,SAMPLE-C,Market junction,2026-10-31T20:49:49.000000+05:30,False
+1,25,,1,Lajpat Nagar,SAMPLE-C,Nehru Place,2026-10-31T08:09:24.000000+05:30,True
+3,22,,1,Nehru Place,SAMPLE-C,Connaught Place,2026-10-31T07:28:08.000000+05:30,False
+1,30,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-31T07:18:23.000000+05:30,False
+1,10,,1,Lajpat Nagar,SAMPLE-D,Market junction,2026-10-31T18:05:19.000000+05:30,True
+2,22,DEMO-4-97,2,Connaught Place,SAMPLE-D,Market junction,2026-10-31T20:44:16.000000+05:30,False
+2,30,DEMO-4-62,1,Kashmere Gate ISBT,SAMPLE-D,Connaught Place,2026-10-31T10:47:13.000000+05:30,True
+1,10,,2,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-31T17:29:49.000000+05:30,False
+3,30,DEMO-4-19,1,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-31T18:03:14.000000+05:30,True
+4,20,,1,Nehru Place,SAMPLE-D,Connaught Place,2026-10-31T19:47:15.000000+05:30,False
+1,20,DEMO-4-73,2,Central interchange,SAMPLE-D,Connaught Place,2026-10-31T07:25:52.000000+05:30,True
+1,10,,1,Nehru Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-31T12:54:03.000000+05:30,False
+2,15,DEMO-4-13,1,Central interchange,SAMPLE-D,Connaught Place,2026-10-31T09:57:45.000000+05:30,True
+2,15,,1,Central interchange,SAMPLE-D,Nehru Place,2026-10-31T13:16:12.000000+05:30,False
+1,30,DEMO-4-63,2,Connaught Place,SAMPLE-D,Kashmere Gate ISBT,2026-10-31T17:41:27.000000+05:30,True
+1,10,,1,Central interchange,SAMPLE-D,Market junction,2026-10-31T19:58:38.000000+05:30,False
+1,35,DEMO-4-80,1,Kashmere Gate ISBT,SAMPLE-D,Nehru Place,2026-10-31T20:22:23.000000+05:30,True
